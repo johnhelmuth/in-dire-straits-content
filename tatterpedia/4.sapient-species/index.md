@@ -204,7 +204,7 @@ them.
 
 ## So'enela
 
-![Picture of a male alien So'enela with brightly colored wings.](./images/banes-eye-space-navy-admiral.png){align="right"  caption="Bane's Eye Space Navy Admiral So'enela."}
+![Picture of a male alien So'enela with brightly colored wings.](images/banes-eye-space-navy-admiral.png){align="right"  caption="Bane's Eye Space Navy Admiral So'enela."}
 
 7' tall, lanky, bilateral symmetry, bipedal, 2 wings. Long face with
 large eyes, large pointy ears, and a small black nose. They have 2 arms
