@@ -10,7 +10,7 @@ Soon after they passed the orbit of the gas giant Cuthbert, their Grulvaxian sen
 
 As the Dire Straits continued their course outwards, and the Silver Minnow continued their course inward, a third ship, the Exploration Vessel Wyvern was revealed.
 
-![Zerzi system map showing the moment when the XV Wynvern was revealed to the crew of the Dire Straits as the DSRV Silver Minnow moved in-system.](/images/zerzi-system-near-new-strait-point.png){align="center" width="769" caption="Zerzi system near the unknown strait point, showing the Dire Straits, the Deep Space Research Vessel Silver Minnow, and the Exploration Vessel Wyvern."}
+![Zerzi system near the unknown strait point, showing the Dire Straits, the Deep Space Research Vessel Silver Minnow, and the Exploration Vessel Wyvern.](/images/zerzi-system-near-new-strait-point.png){align="center" width="769" caption="Zerzi system near the unknown strait point, showing the Dire Straits, the Deep Space Research Vessel Silver Minnow, and the Exploration Vessel Wyvern."}
 
 The XV Wyvern is the ship of the renowned team of explorers who have discovered 2 other new strait points in the last 10 years. Their vector was outwards from the star, but not converging with the Dire Straits, nor moving directly towards the possible strait point.
 
