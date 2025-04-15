@@ -1,6 +1,6 @@
 ---
 title: Session 6 Summary
-date: 2024-01-04
+date: 2025-01-04
 ---
 
 The *Dire Straits* was heading out from Zerzi Station toward Cuthbert, a 4 hour journey. Their Tatternet feed included a
