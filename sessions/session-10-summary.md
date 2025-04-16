@@ -2,6 +2,8 @@
 title: Session 10 Summary
 description: A description of the in-game events that happened during Session 10 of the In Dire Straits campaign.
 date: 2025-04-12
+in-game-start: 7922-008 15:30
+in-game-end: 7922-008 22:20
 ---
 
 The Dire Straits, crewed only by Jithal, Chris, and Steve Irwin, traveled to the outer system to finally track down location of the possible new strait point, and stake their claim by shooting it to the unknown system on the other side.
