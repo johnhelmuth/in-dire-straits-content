@@ -1,6 +1,8 @@
 ---
 title: Session 9 Summary
 date: 2025-03-29
+in-game-start: 7922-008 08:45
+in-game-end: 7922-008 09:30
 ---
 
 The crew defeated Pirate Queen Ramekin Finch, for now, and escaped from her asteroid base, rescuing the survivors of the
@@ -14,5 +16,3 @@ and will deal with that as he can.
 The Dire Straits leaves the station ahead of the mob of press and paparazzi. Delano Mack becomes the face of the
 Siouxiana rescue, while Jim Dade disappears in the crowd. Delano will be trying to get Elizabeth Catlow down to Zerzi
 City to talk to Bar Eewit about the data on her stick.
-
-*Last Session End Game Time: 7922-008 09:30*

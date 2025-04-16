@@ -1,6 +1,8 @@
 ---
 title: Session 5 Summary 
 date: 2024-12-21
+in-game-start: 7922-007 28:40
+in-game-end: 7922-008 01:25
 ---
 
 After the *Jitterbug* and the *Dire Straits* rendezvoused outside the sensor range of Zerzi planet’s defence network, Captain Delano Mack left in the *Jitterbug* on his way to Cuthbert Station as he agreed to during the rendezvous.

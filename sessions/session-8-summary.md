@@ -1,6 +1,8 @@
 ---
 title: Session 8 Summary
 date: 2025-02-15
+in-game-start: 7922-008 08:30
+in-game-end: 7922-008 08:45
 ---
 
 ![](/images/Molgri.jpg){align="right"  caption="Ramekin Finch's pet Molgri, Malky."}
