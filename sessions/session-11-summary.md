@@ -1,6 +1,6 @@
 ---
 title: Session 11 Summary
-description: A description of the in-game events that happened during Session 1 of the In Dire Straits campaign.
+description: A description of the in-game events that happened during Session 11 of the In Dire Straits campaign.
 date: 2025-04-26
 in-game-start: 7922-009 21:00
 in-game-end: 7922-010 06:00
