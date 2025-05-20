@@ -40,7 +40,7 @@ description: A small merchant ship which is the home base for the players in the
 - 3 docking collars with airlocks, cargo airlock, airlock on bridge,
   airlock in engineering
 
-- 2 Missile tubes, only 1 Missile currently.
+- 2 Missile tubes, no missiles.
 
 - 2 point defense lasers, top and bottom.
 

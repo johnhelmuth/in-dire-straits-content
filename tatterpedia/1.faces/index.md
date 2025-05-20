@@ -55,6 +55,22 @@ Captain of the heavily armed pirate ship [*A Single Red Eye*](ships#a-single-red
 crew, who she calls her Finchmen, have reportedly taken merchant ships
 in all the systems of the local cluster except for Bane's Eye.
 
+### Sonada Jani
+
+Runs a shop in Alodon on Seed that imports and re-sells off-planet fashions for those who can afford it. She is a polite
+severe human who dresses in simple high-quality off-planet styles.
+
+### Corvin Dituri
+
+Shopkeeper on Zerzi Station, used as Dohpaz Vito’s on-station proxy for communications with the Dire Straits crew.
+
+### Sargent Guts Matronas
+
+Aspects: **_Long Suffering Bodyguard of Lady Ariana ; Too old for this shit, but it is my duty_**
+
+Fight, Athletics: **Good (+3)**, (Sword)
+Physique: **Fair (+2)**
+
 ### Captain Vilarn Polustan
 
 Captain of the Science Foundation Deep Space Research Vessel *Silver
@@ -102,3 +118,9 @@ planet.
 Aspect: ***Cronstak Businessman with a shady need***
 
 Will: **Good (+3)**
+
+### Lady Ariana Zanetti
+Aspects: **_Spoiled Wastrel Daughter of House Zanetti of Golden Seed ; Loves a good fight and shiny things_**
+
+Fight, Athletics: **Fair (+2)**, (Sword cane)
+Will: **Good (+3)** (Stubborn)

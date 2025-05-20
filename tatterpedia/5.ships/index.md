@@ -11,6 +11,10 @@ A list of known space ships in the game.
 
 [Ship sheet](ships/dire-straits)
 
+## Chrysalis
+
+[Ship sheet](ships/chrysalis)
+
 ## Jitterbug
 
 [Ship sheet](ships/jitterbug)
