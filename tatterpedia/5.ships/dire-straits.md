@@ -75,7 +75,7 @@ fixed, and the Maintenance needed clock is cleared. Maintenance segments can be 
 and/or parts (determined by plot.) Segments might be marked if there is no regular opportunity to do 0maintenance
 labor within a week.*
 
-Ships credits: 2x6 segments, 2x6 full.
+Ships credits: 2x6 segments, 2x6 full, +1 slice.
 
 *Each full segment represents credits in your ship’s budget to pay for supplies, maintenance, and your ship’s lien
 payments.*

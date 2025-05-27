@@ -17,4 +17,5 @@ The friendly interface to all knowledge in known space.
 * [Technology](/tatterpedia/technology)
 * [Terminology](/tatterpedia/terminology)
 * [Universal Interstellar Time (UIT)](/tatterpedia/universal-interstellar-time)
+* [Intership / interspecies secure meeting protocol](/tatterpedia/intership-interspecies-secure-meeting-protocol)
 

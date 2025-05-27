@@ -10,3 +10,4 @@ description: A list of the session summaries from the In Dire Straits RPG campai
 * [Session 9 Summary (2025-03-29)](/sessions/session-9-summary)
 * [Session 10 Summary (2025-04-12)](/sessions/session-10-summary)
 * [Session 11 Summary (2025-04-26)](/sessions/session-11-summary)
+* [Session 12 Summary (2025-05-24)](/sessions/session-12-summary)

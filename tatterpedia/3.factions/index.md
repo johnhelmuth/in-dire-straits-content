@@ -81,3 +81,7 @@ who fought against the [Invicta Swarm](/tatterpedia/sapient-species#invicta-swar
 ### Tepchania Institute of Technology
 
 A prestigious engineering university on [Tepchania](places#tepchania). Informally known as TIT.
+
+### Majestic Services
+
+A company incorporated in Bane’s Eye that runs several passenger liners within the local cluster, including the _Siouxiana_, which destroyed by the Pirate Queen Ramekin Finch on 7922-007.

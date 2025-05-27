@@ -48,6 +48,14 @@ communication device to the right side of his eyes. Only a glowing light
 and the occasional glint of silver metal can be seen as it is mostly
 covered by his fur.
 
+### Corvin Dituri
+
+Shopkeeper on Zerzi Station, used as Dohpaz Vito’s on-station proxy for communications with the Dire Straits crew.
+
+### Bar Eewit
+
+Editor of the Zerzi City Channeler, the most respected news outlet in Zerzi City. Bar is well known as a stubborn person who aggressively defends the rights of the press.
+
 ### Pirate Queen Ramekin Finch
 
 No one knows if this person actually exists, but if she does, she is the
@@ -55,14 +63,14 @@ Captain of the heavily armed pirate ship [*A Single Red Eye*](ships#a-single-red
 crew, who she calls her Finchmen, have reportedly taken merchant ships
 in all the systems of the local cluster except for Bane's Eye.
 
+### Captain Chedi Janelduran
+
+Bontian (5’ tall black and orange striped caterpillar with 8 tentacles) merchant captain of the medium merchant ship Mass Simulator.
+
 ### Sonada Jani
 
 Runs a shop in Alodon on Seed that imports and re-sells off-planet fashions for those who can afford it. She is a polite
 severe human who dresses in simple high-quality off-planet styles.
-
-### Corvin Dituri
-
-Shopkeeper on Zerzi Station, used as Dohpaz Vito’s on-station proxy for communications with the Dire Straits crew.
 
 ### Sargent Guts Matronas
 
