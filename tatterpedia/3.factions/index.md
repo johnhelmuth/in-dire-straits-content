@@ -85,3 +85,14 @@ A prestigious engineering university on [Tepchania](places#tepchania). Informall
 ### Majestic Services
 
 A company incorporated in Bane’s Eye that runs several passenger liners within the local cluster, including the _Siouxiana_, which destroyed by the Pirate Queen Ramekin Finch on 7922-007.
+
+### Galactic Standards Organization (GSO)
+
+The GSO is an intergalactic standards body that maintains and publishes technical, social, and spiritual standards used by sapients everywhere.
+
+The GSO's work is funded by membership dues. Most polities, universities, organizations, and large corporations in known space are members of the GSO, and
+include representatives in the various working groups that determine the standards.
+
+#### List of GSO Standards.
+
+* GSO No. [314159265359](/tatterpedia/gso-standards/314159265359-intership-interspecies-secure-meeting-protocol) - Intership / interspecies secure meeting protocol.

@@ -16,6 +16,7 @@ The friendly interface to all knowledge in known space.
 * [Ships](/tatterpedia/ships)
 * [Technology](/tatterpedia/technology)
 * [Terminology](/tatterpedia/terminology)
-* [Universal Interstellar Time (UIT)](/tatterpedia/universal-interstellar-time)
-* [Intership / interspecies secure meeting protocol](/tatterpedia/intership-interspecies-secure-meeting-protocol)
+* [GSO Standards](/tatterpedia/gso-standards)
+  * [000000000001 - Universal Interstellar Time (UIT)](/tatterpedia/gso-standards/000000000001-universal-interstellar-time)
+  * [314159265359 - Intership / interspecies secure meeting protocol](/tatterpedia/gso-standards/314159265359-intership-interspecies-secure-meeting-protocol)
 
