@@ -65,7 +65,7 @@ in all the systems of the local cluster except for Bane's Eye.
 
 ### Captain Chedi Janelduran
 
-Bontian (5’ tall black and orange striped caterpillar with 8 tentacles) merchant captain of the medium merchant ship Mass Simulator.
+Bontion (5’ tall black and orange striped caterpillar with 8 tentacles) merchant captain of the medium merchant ship Mass Simulator.
 
 ### Sonada Jani
 
