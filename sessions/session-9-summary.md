@@ -1,8 +1,8 @@
 ---
 title: Session 9 Summary
 date: 2025-03-29
-in-game-start: 7922-008 08:45
-in-game-end: 7922-008 09:30
+in_game_start: 7922-008 08:45
+in_game_end: 7922-008 09:30
 ---
 
 The crew defeated Pirate Queen Ramekin Finch, for now, and escaped from her asteroid base, rescuing the survivors of the

@@ -2,8 +2,8 @@
 title: Session 12 Summary
 date: 2025-05-24
 description:
-in-game-start: 7922-010 29:52
-in-game-end:  7922-010 20:00
+in_game_start: 7922-010 29:52
+in_game_end:  7922-010 20:00
 ---
 
 *Start game time 7922-009 29:52*

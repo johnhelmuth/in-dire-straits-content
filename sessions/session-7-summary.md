@@ -1,8 +1,8 @@
 ---
 title: Session 7 Summary
 date: 2025-02-01
-in-game-start: 7922-008 07:45
-in-game-end: 7922-008 08:30
+in_game_start: 7922-008 07:45
+in_game_end: 7922-008 08:30
 ---
 
 ## Delano, prior to Session 7 (Session 6a)
