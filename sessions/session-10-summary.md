@@ -1,6 +1,6 @@
 ---
 title: Session 10 Summary
-description: A description of the in-game events that happened during Session 10 of the In Dire Straits campaign.
+description: The Dire Straits crew finally locates and jumps the new strait point in Zerzi System, finding the unknown hostile species on the other side, and shoot the strait back to Zerzi, under fire! 
 date: 2025-04-12
 in_game_start: 7922-008 15:30
 in_game_end: 7922-008 22:20

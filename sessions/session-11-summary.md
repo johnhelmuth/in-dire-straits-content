@@ -1,9 +1,9 @@
 ---
 title: Session 11 Summary
-description: A description of the in-game events that happened during Session 11 of the In Dire Straits campaign.
+description: The Dire Straits delivers a cargo from Dohpaz Vito to a fancy dress shop in the city Alodon in Golden Seed.
 date: 2025-04-26
 in_game_start: 7922-009 21:00
-in_game_end: 7922-010 06:00
+in_game_end: 7922-009 29:00
 ---
 
 The Dire Straits traveled in to Zerzi Station to acquire more pheromone substrates for Chris from their contact with Dohpaz Vito’s organization.  Along with the substrate package, they picked up a new job, a pallet of 16 crates to discreetly deliver to a Sonada Jani’s business in the city of Alodon on Seed, the sole habitable planet in Golden Seed system.

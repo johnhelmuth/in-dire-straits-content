@@ -1,12 +1,12 @@
 ---
 title: Session 12 Summary
 date: 2025-05-24
-description:
-in_game_start: 7922-010 29:52
+description: |
+  During the Dire Strait's transit across Dragongull's Cry, the crew lends a helping hand to a medium sized merchant, 
+  the **Mass Simulator**, captained by Chendi Jalenduran.
+in_game_start: 7922-009 29:52
 in_game_end:  7922-010 20:00
 ---
-
-*Start game time 7922-009 29:52*
 
 During the transit across Gold Seed system to the Dragongull’s Cry strait point, several tatternet messages are received on the *Dire Straits*.
 
@@ -27,6 +27,4 @@ About 2/3s of the way across the system, the *Dire Straits* detects a medium siz
 When the *Dire Straits* crew shuttles over to the *Mass Simulator* to deliver life support resources, they discover that the distress call was a ruse and Captain Jalenduran and his crew ambush Steve Irwin, Delano Mack, and Jithal as they help to move the containers of life support resources from the shuttle’s airlock into the *Mass Simulator*’s life support chamber. When guns were pulled on them, Jithal managed to slither into a vent to avoid two of the crew members, Delano Mack managed to get the drop on the one who pulled on him, and Steve Irwin and Captain Jalenduran drew as close to simultaneously as didn’t matter. Jithal ripped out and dropped a live high power line down onto the deck in the passageway, shocking insensate the 2 crew members there. Delano Mack struggled to get control of his opponent’s gun. Steve Irwin convinced Captain Jalenduran that he wouldn’t like what Jithal was liable to do when loose on his ship, and they should just go their separate ways. The *Dire Straits’* crew returned to the shuttle and the *Dire Straits*.
 
 The *Dire Straits* continued on their way to the Bane’s Eye strait point and jumped into Bane’s Eye.
-
-*End game time 7922-010 20:00*
 
