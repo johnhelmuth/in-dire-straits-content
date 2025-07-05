@@ -3,7 +3,7 @@ title: Session 12 Summary
 date: 2025-05-24
 description: |
   During the Dire Strait's transit across Dragongull's Cry, the crew lends a helping hand to a medium sized merchant, 
-  the **Mass Simulator**, captained by Chendi Jalenduran.
+  the Mass Simulator, captained by Chendi Jalenduran.
 in_game_start: 7922-009 29:52
 in_game_end:  7922-010 20:00
 ---
