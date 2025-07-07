@@ -1,6 +1,7 @@
 ---
 title: Jitterbug, the ship
 description: Independent in-system courier ship owned and operated by Captain Delano Mack in Zerzi System.
+tags: [ship, player-owned, jitterbug]
 ---
 
 ### Aspects:

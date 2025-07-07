@@ -5,6 +5,20 @@ extra-nav-links:
   pre:
     - text: Pick random species
       handler-tag: pick-random
+tags: 
+  - species
+  - sapient
+  - invicta
+  - grulvax
+  - flotilla
+  - calcoran-schools
+  - vat-clones
+  - cronstak
+  - human
+  - bearbles
+  - bontions
+  - ohlzor
+  - so-enela
 ---
 
 ## Invicta Swarm

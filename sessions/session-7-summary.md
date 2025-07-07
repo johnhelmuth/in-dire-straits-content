@@ -3,11 +3,12 @@ title: Session 7 Summary
 date: 2025-02-01
 in_game_start: 7922-008 07:45
 in_game_end: 7922-008 08:30
+tags: [session]
 ---
 
-## Delano, prior to Session 7 (Session 6a)
-
-Delano woke up in a cell, a single hatch, some small air vents, a bucket, and two cots. In the other cot was human woman
+Delano woke up in a cell, a single hatch, some small air vents, a bucket, and two cots. In the other cot 
+<!--more --> 
+was human woman
 in her 20s, unconscious. His blaster pistol was missing, but happily the pirates missed the hold-out pistol in his boot.
 
 The woman was dressed in expensive, well matched clothes, but wrinkled and a little dirty. Delano didn’t recognise the

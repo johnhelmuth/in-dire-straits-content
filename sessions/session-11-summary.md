@@ -4,9 +4,12 @@ description: The Dire Straits delivers a cargo from Dohpaz Vito to a fancy dress
 date: 2025-04-26
 in_game_start: 7922-009 21:00
 in_game_end: 7922-009 29:00
+tags: [session]
 ---
 
-The Dire Straits traveled in to Zerzi Station to acquire more pheromone substrates for Chris from their contact with Dohpaz Vito’s organization.  Along with the substrate package, they picked up a new job, a pallet of 16 crates to discreetly deliver to a Sonada Jani’s business in the city of Alodon on Seed, the sole habitable planet in Golden Seed system.
+The Dire Straits traveled in to Zerzi Station to acquire more pheromone substrates for Chris
+<!--more --> 
+from their contact with Dohpaz Vito’s organization.  Along with the substrate package, they picked up a new job, a pallet of 16 crates to discreetly deliver to a Sonada Jani’s business in the city of Alodon on Seed, the sole habitable planet in Golden Seed system.
 
 During the transit across Zerzi system, Jithal examined the crates on the palette, determined that they appeared to be 12 plasma rifles in each one. Research on the tatternet determined that Golden Seed was inhabited almost exclusively by humans, and that while they were generally aware that non-human species existed, most of the population would be very much aware of the strangeness (to the) of Jithal. Also, the planet did not have general access to the tatternet; only the wealthiest citizens of the planet could access it, and they kept their private tatternet nodes tightly locked down.
 

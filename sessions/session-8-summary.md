@@ -3,11 +3,14 @@ title: Session 8 Summary
 date: 2025-02-15
 in_game_start: 7922-008 08:30
 in_game_end: 7922-008 08:45
+tags: [session]
 ---
 
+The crew of the *Dire Straits*, Delano Mack, the survivors of the pirate attack of the *Siouxiana*,
+<!--more --> 
+including Elizabeth Catlow, tried to run the gauntlet of Ramekin Finch’s pirates, the Finchmen, through the Concourse of her pirate base.
+
 ![](/images/Molgri.jpg){align="right"  caption="Ramekin Finch's pet Molgri, Malky."}
-The crew of the *Dire Straits*, Delano Mack, the survivors of the pirate attack of the *Siouxiana*, including Elizabeth
-Catlow, tried to run the gauntlet of Ramekin Finch’s pirates, the Finchmen, through the Concourse of her pirate base.
 They made it as far as the cargo airlock leading to the ships bay and the ships bay control room, although Steve Irwin
 and the seriously injured Chris were separated from the rest of the crew during the attack of Ramekin Finch’s Mogri pet,
 an enormous jumping spider with a roar like a lion.

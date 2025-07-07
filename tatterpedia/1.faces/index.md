@@ -1,6 +1,17 @@
 ---
 title: Faces
 description: A list of non player characters (NPCs) in the game.
+tags: 
+  - npcs
+  - indira-attenborough
+  - jarek-banif
+  - crusty
+  - kynon-barick
+  - phineas-collinston
+  - craln
+  - crimini
+  - ozar-crivvain
+  - corvin-dituri
 ---
 
 ### Dr. Indira Attenborough

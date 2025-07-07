@@ -1,6 +1,16 @@
 ---
 title: Ships
-
+tags: 
+  - ship
+  - dire-straits
+  - chrysalis
+  - jitterbug
+  - mass-simulator
+  - a-single-red-eye
+  - siouxiana
+  - silver-minnow
+  - tenacious
+  - wyvern
 ---
 
 A list of known space ships in the game.
@@ -26,7 +36,12 @@ Mack in Zerzi System.
 
 **_Mid-sized Merchant Ship_**
 
-Owned and operated by Captain Chedi Janelduran, with a crew of 4, Captain, Pilot, Engineer, Loadmaster. Slipstream capable.
+Owned and operated by Captain Chedi Janelduran
+  - with a crew of 4
+  - Captain
+  - Pilot
+  - Engineer
+  - Loadmaster. Slipstream capable.
 
 ## A Single Red Eye
 
@@ -35,20 +50,23 @@ Finch](faces#pirate-queen-ramekin-finch).
 
 ## Siouxiana
 
-A Slipstream capable passenger liner operated by Majestic Services, a
+A Slipstream capable passenger liner operated by Majestic Services
+  - a
 company out of Bane's Eye.
 
 ## Science Foundation Deep Space Research Vessel *Silver Minnow*
 
 A large research ship that is captained by Vilarn Polustan. It is
 typically used to research astrophysical phenomenon. Current mission is
-led by Dr. Phineas Collinston, a physicist who did his doctoral thesis
+led by Dr. Phineas Collinston
+  - a physicist who did his doctoral thesis
 on Slipstream Space. They are heading to Luxia to investigate strange
 gravitational signatures.
 
 ## Zerzi Space Navy destroyer *Tenacious*
 
-In-system destroyer that patrols the Strait points of Zerzi, and acts as
+In-system destroyer that patrols the Strait points of Zerzi
+  - and acts as
 a customs and traffic enforcement as needed. [Lieutenant Craln](faces#lieutenant-craln) is
 executive officer.
 

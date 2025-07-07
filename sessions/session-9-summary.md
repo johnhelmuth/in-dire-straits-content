@@ -3,9 +3,12 @@ title: Session 9 Summary
 date: 2025-03-29
 in_game_start: 7922-008 08:45
 in_game_end: 7922-008 09:30
+tags: [session]
 ---
 
-The crew defeated Pirate Queen Ramekin Finch, for now, and escaped from her asteroid base, rescuing the survivors of the
+The crew defeated Pirate Queen Ramekin Finch, for now, and escaped from her asteroid base, rescuing
+<!--more --> 
+the survivors of the
 Siouxiana. The Dire Straits with Chrysalis and the Jitterbug attached ferry the survivors of the Siouxiana to Zerzi
 Station. Before they reach the station's sensor envelope, Delano Mack undocks the Jitterbug from the Dire Straits to
 make his way separately to the station. Once the Dire Straits is docked, the survivors are quickly whisked into the

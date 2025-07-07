@@ -1,5 +1,6 @@
 ---
 title: The Chrysalis, Swarm-fleet Starfighter
+tags: [ship, player-owned, chrysalis]
 ---
 
 ### Aspects

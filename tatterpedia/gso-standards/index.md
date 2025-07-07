@@ -1,5 +1,6 @@
 ---
 title: GSO Standards
+tags: [ gso ]
 ---
 
 * [000000000001 - Universal Interstellar Time (UIT)](/tatterpedia/gso-standards/000000000001-universal-interstellar-time)

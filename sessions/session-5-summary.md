@@ -3,9 +3,12 @@ title: Session 5 Summary
 date: 2024-12-21
 in_game_start: 7922-007 28:40
 in_game_end: 7922-008 01:25
+tags: [session]
 ---
 
-After the *Jitterbug* and the *Dire Straits* rendezvoused outside the sensor range of Zerzi planet’s defence network, Captain Delano Mack left in the *Jitterbug* on his way to Cuthbert Station as he agreed to during the rendezvous.
+After the *Jitterbug* and the *Dire Straits* rendezvoused outside the sensor range of Zerzi planet’s defence network, 
+<!--more -->
+Captain Delano Mack left in the *Jitterbug* on his way to Cuthbert Station as he agreed to during the rendezvous.
 
 Jithal had scanned the ship for tracking devices or signals. He discovered one in the common room, where the rest of the crew and Dohpaz Vito were waiting for the results. He tracked it down: inside the case that Dohpaz Vito had been holding close since Cuthbert Station. The crew convinced Dohpaz to reluctantly let Jithal check it out and see if he could disable it. 
 

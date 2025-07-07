@@ -3,11 +3,12 @@ title: Session 6 Summary
 date: 2025-01-04
 in_game_start: 7922-008 01:25
 in_game_end: 7922-008 07:45
+tags: [session]
 ---
 
-The *Dire Straits* was heading out from Zerzi Station toward Cuthbert, a 4 hour journey. Their Tatternet feed included a
-new
-story, [Destroyed Ship Siouxiana Discovered in Golden Seed](./session-6-addenda/destroyed-ship-siouxiana-discovered-in-golden-seed).
+The *Dire Straits* was heading out from Zerzi Station toward Cuthbert,
+<!--more --> 
+a 4 hour journey. Their Tatternet feed included a new story, [Destroyed Ship Siouxiana Discovered in Golden Seed](./session-6-addenda/destroyed-ship-siouxiana-discovered-in-golden-seed).
 
 Soon after, Jim Dade receives a Tatternet [message from Delano Mack](./session-6-addenda/delano-macks-tatternet-message-for-jim-dade-7922-008-01-45)
 on the *Jitterbug*, apparently sent surreptitiously just before he was boarded by pirates claiming to be from [*A Single

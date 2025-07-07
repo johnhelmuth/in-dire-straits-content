@@ -1,6 +1,7 @@
 ---
 title: Places
 description: A list of locations in the game, including star systems, space stations, cities, and businesses.
+tags: [star-system, zerzi, cuthbert, scouts-guild, tepchania, fuel-station]
 ---
 
 ## Local Cluster

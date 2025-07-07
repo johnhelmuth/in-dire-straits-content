@@ -6,6 +6,7 @@ description: |
   the Mass Simulator, captained by Chendi Jalenduran.
 in_game_start: 7922-009 29:52
 in_game_end:  7922-010 20:00
+tags: [session]
 ---
 
 During the transit across Gold Seed system to the Dragongull’s Cry strait point, several tatternet messages are received on the *Dire Straits*.

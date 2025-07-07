@@ -1,6 +1,7 @@
 ---
 title: Dire Straits, the ship
 description: A small merchant ship which is the home base for the players in the game.
+tags: [ship, player-owned, crew, dire-straits]
 ---
 
 ### Aspects: 
