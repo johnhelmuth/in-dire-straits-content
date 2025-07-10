@@ -39,7 +39,7 @@ systems as local do-gooders, just helping the little guy.
 ### Scouts Guild
 
 The Scouts Guild is spread across known space, independent of any
-planet-bound polities. Members of the Scout\'s guild are Pilots who have
+planet-bound polities. Members of the Scouts guild are Pilots who have
 been sponsored by an existing member, and who pay an annual membership
 fee. The membership fees are nominal, but spread out over known space,
 they add up. They also re-sell the slipstream strait parameters to
@@ -91,8 +91,9 @@ A company incorporated in Bane’s Eye that runs several passenger liners within
 The GSO is an intergalactic standards body that maintains and publishes technical, social, and spiritual standards used by sapients everywhere.
 
 The GSO's work is funded by membership dues. Most polities, universities, organizations, and large corporations in known space are members of the GSO, and
-include representatives in the various working groups that determine the standards.
+includes representatives in the various working groups that determine the standards.
 
 #### List of GSO Standards.
 
+* GSO No. [000000000001](/tatterpedia/gso-standards/00000000001-universal-interstellar-time) Universal Interstellar Time (UIT).
 * GSO No. [314159265359](/tatterpedia/gso-standards/314159265359-intership-interspecies-secure-meeting-protocol) - Intership / interspecies secure meeting protocol.

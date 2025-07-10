@@ -23,6 +23,10 @@ Will: **Good (+3)**
 Engineering professor at the [Tepchania Institute of Technology](factions#tepchania-institute-of-technology). Trusted
 by [Dr. Indira Attenborough, sapientologist](faces#dr-indira-attenborough).
 
+### Thunterperg Brelt
+
+Taller and thinner than most Cronstak, Thunterperg has light cream fur with large black spots. She feels this sets her apart from others and leans into it by wearing a matching jumpsuit. She works in the Alreekt Station algae processing facilities. She is also an amateur marine biologist who is concerned about the plight of the Concord Narwhallaby.
+
 ### Dr. Phineas Collinston
 
 A physicist who did his doctoral thesis on Slipstream Space. Currently
@@ -61,7 +65,9 @@ Editor of the Zerzi City Channeler, the most respected news outlet in Zerzi City
 No one knows if this person actually exists, but if she does, she is the
 Captain of the heavily armed pirate ship [*A Single Red Eye*](ships#a-single-red-eye). She and her
 crew, who she calls her Finchmen, have reportedly taken merchant ships
-in all the systems of the local cluster except for Bane's Eye.
+in all the systems of the local cluster.
+
+![BESN composite rendering of the Pirate Queen Ramekin Finch, based on multiple alleged sightings.](/images/ramekin-finch.jpeg){align="center"  size="small" caption="ZSN composite rendering of the Pirate Queen Ramekin Finch, based on multiple alleged sightings."}
 
 ### Captain Chedi Janelduran
 

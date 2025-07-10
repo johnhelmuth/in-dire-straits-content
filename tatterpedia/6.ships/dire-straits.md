@@ -50,6 +50,8 @@ description: A small merchant ship which is the home base for the players in the
 
 - Rover (hover capable)
 
+Registered out the system _Pygil_, in a different cluster that is coreward from the local cluster.
+
 ### Attributes:
 
 Defence: Average (+1)

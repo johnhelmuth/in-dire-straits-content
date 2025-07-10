@@ -12,7 +12,7 @@ story, [Destroyed Ship Siouxiana Discovered in Golden Seed](./session-6-addenda/
 Soon after, Jim Dade receives a Tatternet [message from Delano Mack](./session-6-addenda/delano-macks-tatternet-message-for-jim-dade-7922-008-01-45)
 on the *Jitterbug*, apparently sent surreptitiously just before he was boarded by pirates claiming to be from [*A Single
 Red
-Eye*](https://docs.google.com/document/d/1ST65qT3xlfPTMU0JHbsHSRRQk8sEjNPsNCu8v9h-zcc/edit?tab=t.0#heading=h.5r2jmjac0hoq).
+Eye*](/tatterpedia/ships#a-signle-red-eye).
 The message included the [coordinates of the *Jitterbug* and *A Single Red
 Eye*](/images/zerzi-jitterbug-abduction.svg). It would take close to 4
 hours for the *Dire Straits* to reach the coordinates. While the rest of the crew discusses plans, Chris jumps into

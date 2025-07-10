@@ -108,6 +108,8 @@ so that sometimes the species are just referred to as "the Bankers."
 They organized and funded the coalition that resisted the Invictic
 Swarm's expansion into the greater galaxy.
 
+![Picture of a Calcoran School sapient.](/images/Calcoran.svg){align="center"  size="large" caption="Picture of a Calcoran School sapient."}
+
 ## Vat Clones
 
 Even though Vat clones look like humans, they are gene-engineered from
@@ -159,6 +161,8 @@ them, et cetera. They all look alike, they mostly act alike.
 
 ## Cronstak
 
+![Picture of a Cronstak ready for anything.](/images/Cronstak.svg){align="left" size="small" caption="Picture of a Cronstak ready for anything."}
+
 Sapients who looks like a three-legged mongoose with vestigial, furry
 wings, and 3 arms that end in 6 fingered hands, including 2 opposable
 thumbs.
@@ -204,7 +208,7 @@ them.
 
 ## So'enela
 
-![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="right"  caption="Bane's Eye Space Navy Admiral So'enela."}
+![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="right" size="small" caption="Bane's Eye Space Navy Admiral So'enela."}
 
 7' tall, lanky, bilateral symmetry, bipedal, 2 wings. Long face with
 large eyes, large pointy ears, and a small black nose. They have 2 arms
@@ -238,3 +242,6 @@ Eye.
 ***Must Provide for Our Progeny***
 
 ***Our god is always watching what we do***
+
+## Sariant
+A species with a snake-like body plan. They have a reputation as being flighty and unable to focus. They sometimes forget to pay for things, and are known in some areas as being “light-fingered”.

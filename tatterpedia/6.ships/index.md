@@ -22,6 +22,10 @@ A list of known space ships in the game.
 Independent in-system courier ship owned and operated by Captain Delano
 Mack in Zerzi System.
 
+## Courier / Merchant Lurbon’s Grackle
+
+A medium-sized, fast ship that moves information and cargo quickly around the local cluster.  Registered as operating out of Ceti Daenia. The Captain is a human, Vance Nylarik.
+
 ## Mass Simulator
 
 **_Mid-sized Merchant Ship_**
