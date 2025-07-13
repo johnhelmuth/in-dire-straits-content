@@ -51,6 +51,8 @@ single Drone. How this Princess is being used is not yet established.)
 
 ## Grulvax
 
+![Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits.](/images/Grulvax.svg){align="left"  size="x-small" caption="Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits."}
+
 The Grulvax are a sapient species that is unknown in all of known space,
 aside from one individual, Jithal, currently engineer on the ship *Dire Straits*.
 
