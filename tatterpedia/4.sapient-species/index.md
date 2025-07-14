@@ -7,6 +7,51 @@ extra-nav-links:
       handler-tag: pick-random
 ---
 
+## Bearbles
+
+Sapients who mostly work in management and supervisory positions, in the
+middle tier of any organization. They are brightly colored puffy fur
+balls with three eyes and no visible mouth, nose, or ears, or legs,
+usually about a meter in diameter. They are either pink, green, or
+orange. They speak with a grating burbling voice. They have 5
+stick-like, bare, segmented arms with no fur and 3 visible joints,
+usually a dull yellow. The arms end in hand-like structures with varying
+number of digits. It seems like their digits drop off and grow back
+relatively quickly. Their arms can reach up to 2 meters away from their
+body in any direction, and they use any 3 of them to walk. They are very
+light for their volume.
+
+They usually wear a complex pleated wrap that covers their lower
+hemisphere, with straps over the top of their headbodytorso to hold it
+in place. The wrap has many pockets. They often wear wraps that contrast
+strongly with their natural coloring.
+
+## Bontions
+
+5' tall black and orange striped caterpillar with 8 tentacles.
+
+## The Calcoran Schools
+
+The Calcoran Schools are a sapient species who evolved underwater, and
+are considered by humans to be a cross between jellyfish and dolphins.
+They are widely spread across known space, and strive to "civilize" the
+galaxy. Their financial systems are dominant in all of the larger
+clusters of known space, and in most of the remaining clusters, so much
+so that sometimes the species are just referred to as "the Bankers."
+
+They organized and funded the coalition that resisted the Invictic
+Swarm's expansion into the greater galaxy.
+
+![Picture of a Calcoran School sapient.](/images/Calcoran.svg){align="center"  size="large" caption="Picture of a Calcoran School sapient."}
+
+## Cronstak
+
+Sapients who looks like a three-legged mongoose with vestigial, furry
+wings, and 3 arms that end in 6 fingered hands, including 2 opposable
+thumbs.
+
+![Picture of a Cronstak ready for anything.](/images/Cronstak.svg){align="center" size="small" caption="Picture of a Cronstak ready for anything."}
+
 ## Invicta Swarm
 
 Ant-like sapients from a cluster far away from the local cluster. They
@@ -49,38 +94,21 @@ in-or-around the Local Cluster, which is not specifically known to the
 Swarm, or there'd be far more investment in the Local Cluster than a
 single Drone. How this Princess is being used is not yet established.)
 
-## Grulvax
-
-![Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits.](/images/Grulvax.svg){align="left"  size="x-small" caption="Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits."}
-
-The Grulvax are a sapient species that is unknown in all of known space,
-aside from one individual, Jithal, currently engineer on the ship *Dire Straits*.
-
-They have four arms, a head with no eyes, and a snake-like lower body.
-Because they can communicate with other members of their species without
-speaking, they will often be eerily silent, not speaking in situations
-other sapients would do so. They prefer confined spaces, as they live
-underground in tight warrens that are interconnected in a complex maze
-of twisty little passages. In these passages, they live communally, and
-do not have the idea many other sapients have of "personal space."
-
-As mentioned, they do not have eyes, but use a sort of radar to make
-sense of the space around them.
-
 ## The Flotilla
 
 A species that lost their home world and now lives in a flotilla of
+![A Flotilla trader showing trade markings on their suits.](/images/Flotilla.svg){align="right"  size="small" caption="A Flotilla trader showing trade markings on their suits."}
 ships in open space. Their biology and environment requirements are such
 that it's unlikely (if not impossible) for them to colonize a new world
 and/or build more than small structures. Correspondingly, no one knows
 what they really look like, because they're always in fully sealed
-suits when outside of the safe environment of their ships.
+suits when outside the safe environment of their ships.
 
 Individuals can and do leave the Flotilla, so they do interact with
 other species, and overall they act almost ubiquitously humble and
 obsequious. They are open about telling the story of their lost home
 world, and of their hubris that caused it. Now there is a strong
-cultural push toward humility and \"not rocking the boat\".
+cultural push toward humility and "not rocking the boat".
 
 The Flotilla moves nomadically from cluster to cluster every decade or
 two, but while they're around they try to establish trade relations
@@ -98,19 +126,78 @@ their "environmental constraints" are just a cover story.
 There are factions within the Flotilla, but not much is known by
 outsiders about these factions and their differing goals.
 
-## The Calcoran Schools
+## Grulvax 
 
-The Calcoran Schools are a sapient species who evolved underwater, and
-are considered by humans to be a cross between jellyfish and dolphins.
-They are widely spread across known space, and strive to "civilize" the
-galaxy. Their financial systems are dominant in all of the larger
-clusters of known space, and in most of the remaining clusters, so much
-so that sometimes the species are just referred to as "the Bankers."
+![Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits.](/images/Grulvax.svg){align="left"  size="x-small" caption="Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits."}
+The Grulvax are a sapient species that is unknown in all of known space,
+aside from one individual, Jithal, currently engineer on the ship *Dire Straits*.
 
-They organized and funded the coalition that resisted the Invictic
-Swarm's expansion into the greater galaxy.
+They have four arms, a head with no eyes, and a snake-like lower body.
+Because they can communicate with other members of their species without
+speaking, they will often be eerily silent, not speaking in situations
+other sapients would do so. They prefer confined spaces, as they live
+underground in tight warrens that are interconnected in a complex maze
+of twisty little passages. In these passages, they live communally, and
+do not have the idea many other sapients have of "personal space."
 
-![Picture of a Calcoran School sapient.](/images/Calcoran.svg){align="center"  size="large" caption="Picture of a Calcoran School sapient."}
+As mentioned, they do not have eyes, but use a sort of radar to make
+sense of the space around them.
+
+## Humans
+
+These guys are the worst.
+
+## Ohlzor
+
+8' tall, heavyset purple bipedal sapients. Known for working as
+mercenaries doing whatever work is needed. Loyal to anyone who pays
+them.
+
+**Species Aspects**
+
+***Fierce well trained mercenary guards***
+
+***Slow Moving but Unflinching***
+
+## Sariant
+A species with a snake-like body plan. They have a reputation as being flighty and unable to focus. They sometimes forget to pay for things, and are known in some areas as being “light-fingered”.
+
+## So'enela
+
+![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="right" size="small" caption="Bane's Eye Space Navy Admiral So'enela."}
+
+7' tall, lanky, bilateral symmetry, bipedal, 2 wings. Long face with
+large eyes, large pointy ears, and a small black nose. They have 2 arms
+with 5 fingered hands. They also have a tentacle below each of their
+arms that end in a mass of small tentacles that bifurcate down to the
+nano scale, allowing them to manipulate very, very, small things. These
+tentacles are usually kept out of harm's way when not in use, by tucking
+them under their clothes, as they are very delicate.
+
+Their bodies, including their faces, are covered in short, soft fur,
+usually shading from cream on their front to brown on their back.
+Although coloration can vary quite a bit, it is always in shades of
+white, brown, gray, or black, sometimes spotted in various sizes. Their
+wings are vestigial, in the sense that they do not allow them to fly.
+The males' wings are feathered in multiple shades of bright colors,
+greens, reds, oranges, purples, blues, while the females are in the
+plainer colors usually matching their body fur.
+
+They mate for life. The females lay a single clutch of 5-10 eggs, and
+the males keep them warm and raise the surviving young while the females
+typically provide food and maintain the homes.
+
+Although So'enela are found all over both the local and neighboring
+clusters, they are the majority(and dominant) sapient species on Bane's
+Eye.
+
+**Species Aspects**
+
+***Industrious and Analytical***
+
+***Must Provide for Our Progeny***
+
+***Our god is always watching what we do***
 
 ## Vat Clones
 
@@ -150,7 +237,7 @@ them, et cetera. They all look alike, they mostly act alike.
 > it's going to take most people longer to see it. People make
 > assumptions about vat clones, and they're usually right - until
 > they're not.
-> 
+>
 > They're almost everywhere. They're ubiquitous. Yeah, I know I just
 > repeated myself. They serve. They grow older. They finish their tours.
 > They transition to civilian life. They even sometimes get married and
@@ -161,89 +248,3 @@ them, et cetera. They all look alike, they mostly act alike.
 >
 > They like to hang out in vat clone bars.
 
-## Cronstak
-
-![Picture of a Cronstak ready for anything.](/images/Cronstak.svg){align="left" size="small" caption="Picture of a Cronstak ready for anything."}
-
-Sapients who looks like a three-legged mongoose with vestigial, furry
-wings, and 3 arms that end in 6 fingered hands, including 2 opposable
-thumbs.
-
-## Humans
-
-These guys are the worst.
-
-## Bearbles
-
-Sapients who mostly work in management and supervisory positions, in the
-middle tier of any organization. They are brightly colored puffy fur
-balls with three eyes and no visible mouth, nose, or ears, or legs,
-usually about a meter in diameter. They are either pink, green, or
-orange. They speak with a grating burbling voice. They have 5
-stick-like, bare, segmented arms with no fur and 3 visible joints,
-usually a dull yellow. The arms end in hand-like structures with varying
-number of digits. It seems like their digits drop off and grow back
-relatively quickly. Their arms can reach up to 2 meters away from their
-body in any direction, and they use any 3 of them to walk. They are very
-light for their volume.
-
-They usually wear a complex pleated wrap that covers their lower
-hemisphere, with straps over the top of their headbodytorso to hold it
-in place. The wrap has many pockets. They often wear wraps that contrast
-strongly with their natural coloring.
-
-## Bontions
-
-5' tall black and orange striped caterpillar with 8 tentacles.
-
-## Ohlzor
-
-8' tall, heavyset purple bipedal sapients. Known for working as
-mercenaries doing whatever work is needed. Loyal to anyone who pays
-them.
-
-**Species Aspects**
-
-***Fierce well trained mercenary guards***
-
-***Slow Moving but Unflinching***
-
-## So'enela
-
-![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="right" size="small" caption="Bane's Eye Space Navy Admiral So'enela."}
-
-7' tall, lanky, bilateral symmetry, bipedal, 2 wings. Long face with
-large eyes, large pointy ears, and a small black nose. They have 2 arms
-with 5 fingered hands. They also have a tentacle below each of their
-arms that end in a mass of small tentacles that bifurcate down to the
-nano scale, allowing them to manipulate very, very, small things. These
-tentacles are usually kept out of harm's way when not in use, by tucking
-them under their clothes, as they are very delicate.
-
-Their bodies, including their faces, are covered in short, soft fur,
-usually shading from cream on their front to brown on their back.
-Although coloration can vary quite a bit, it is always in shades of
-white, brown, gray, or black, sometimes spotted in various sizes. Their
-wings are vestigial, in the sense that they do not allow them to fly.
-The males' wings are feathered in multiple shades of bright colors,
-greens, reds, oranges, purples, blues, while the females are in the
-plainer colors usually matching their body fur.
-
-They mate for life. The females lay a single clutch of 5-10 eggs, and
-the males keep them warm and raise the surviving young while the females
-typically provide food and maintain the homes.
-
-Although So'enela are found all over both the local and neighboring
-clusters, they are the majority(and dominant) sapient species on Bane's
-Eye.
-
-**Species Aspects**
-
-***Industrious and Analytical***
-
-***Must Provide for Our Progeny***
-
-***Our god is always watching what we do***
-
-## Sariant
-A species with a snake-like body plan. They have a reputation as being flighty and unable to focus. They sometimes forget to pay for things, and are known in some areas as being “light-fingered”.
