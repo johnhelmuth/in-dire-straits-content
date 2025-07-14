@@ -35,11 +35,11 @@ strongly with their natural coloring.
 The Calcoran Schools are a sapient species who evolved underwater, and
 are considered by humans to be a cross between jellyfish and dolphins.
 They are widely spread across known space, and strive to "civilize" the
-galaxy. Their financial systems are dominant in all of the larger
+galaxy. Their financial systems are dominant in all the larger
 clusters of known space, and in most of the remaining clusters, so much
 so that sometimes the species are just referred to as "the Bankers."
 
-They organized and funded the coalition that resisted the Invictic
+They organized and funded the coalition that resisted the Invicta
 Swarm's expansion into the greater galaxy.
 
 ![Picture of a Calcoran School sapient.](/images/Calcoran.svg){align="center"  size="large" caption="Picture of a Calcoran School sapient."}
@@ -49,7 +49,6 @@ Swarm's expansion into the greater galaxy.
 Sapients who looks like a three-legged mongoose with vestigial, furry
 wings, and 3 arms that end in 6 fingered hands, including 2 opposable
 thumbs.
-
 ![Picture of a Cronstak ready for anything.](/images/Cronstak.svg){align="center" size="small" caption="Picture of a Cronstak ready for anything."}
 
 ## Invicta Swarm
@@ -60,7 +59,7 @@ plans based on their purpose within the species. They are led by a
 Queen, and there are Soldier caste Invictans who are optimized for
 battle. There are variants of the Soldier caste, Pilot caste, who are
 hatched in tandem with the frame of their starfighter. They retain most
-of the hand to hand skills of the base Soldier caste, but have a
+of the hand-to-hand skills of the base Soldier caste, but have a
 preternatural connection to the systems of their starfighter.
 
 The Invicta Swarm is a galactically-distant species of hostile,
