@@ -1,5 +1,6 @@
 ---
 title: Session 7 Summary
+description: Captured by and rescue attempt from the Pirate Queen Ramekin Finch.
 date: 2025-02-01
 in_game_start: 7922-008 07:45
 in_game_end: 7922-008 08:30
