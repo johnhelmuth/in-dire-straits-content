@@ -62,6 +62,7 @@ hatched in tandem with the frame of their starfighter. They retain most
 of the hand-to-hand skills of the base Soldier caste, but have a
 preternatural connection to the systems of their starfighter.
 
+![Picture of an Invicta Swarm soldier.](/images/Invicta.svg){align="left" size="x-small" caption="Picture of an Invicta Swarm soldier."}
 The Invicta Swarm is a galactically-distant species of hostile,
 expansionist bug-aliens (Ant-Hive type). They have 11 Star Systems and a
 single Queen as their ruler and mother. The bugs are high-technology
