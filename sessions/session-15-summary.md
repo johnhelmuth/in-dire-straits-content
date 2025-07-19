@@ -2,7 +2,7 @@
 title: Session 15 Summary
 date: 2025-07-05
 in_game_start: 7922-012 01:00
-in_game_end: 7922-012 08:15
+in_game_end: 7922-012 08:30
 ---
 
 After catching some sleep and a meal, Steve Irwin needs to head into the bowels of the station to meet with his contact, Thunterperg Brelt, who works as a manager in the Alreekt station Algae Processing Facility number 7a, and is an amateur marine biologist. Thunterperg knows someone who is in the Banesian underground and has arranged for them to meet at her office. Jithal heads over first and scouts out the vents and ducts around the office, looking for a good spot to monitor the situation. After ensuring no one else is using the vents, he settles into a good spot. 
