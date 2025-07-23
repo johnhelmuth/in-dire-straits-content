@@ -49,6 +49,7 @@ Swarm's expansion into the greater galaxy.
 Sapients who looks like a three-legged mongoose with vestigial, furry
 wings, and 3 arms that end in 6 fingered hands, including 2 opposable
 thumbs.
+
 ![Picture of a Cronstak ready for anything.](/images/Cronstak.svg){align="center" size="small" caption="Picture of a Cronstak ready for anything."}
 
 ## Invicta Swarm
@@ -60,9 +61,10 @@ Queen, and there are Soldier caste Invictans who are optimized for
 battle. There are variants of the Soldier caste, Pilot caste, who are
 hatched in tandem with the frame of their starfighter. They retain most
 of the hand-to-hand skills of the base Soldier caste, but have a
-preternatural connection to the systems of their starfighter.
+preternatural connection to the systems of their starfighter. 
 
 ![Picture of an Invicta Swarm soldier.](/images/Invicta.svg){align="left" size="x-small" caption="Picture of an Invicta Swarm soldier."}
+
 The Invicta Swarm is a galactically-distant species of hostile,
 expansionist bug-aliens (Ant-Hive type). They have 11 Star Systems and a
 single Queen as their ruler and mother. The bugs are high-technology
@@ -96,8 +98,9 @@ single Drone. How this Princess is being used is not yet established.)
 
 ## The Flotilla
 
-A species that lost their home world and now lives in a flotilla of
 ![A Flotilla trader showing trade markings on their suits.](/images/Flotilla.svg){align="right"  size="small" caption="A Flotilla trader showing trade markings on their suits."}
+
+A species that lost their home world and now lives in a flotilla of
 ships in open space. Their biology and environment requirements are such
 that it's unlikely (if not impossible) for them to colonize a new world
 and/or build more than small structures. Correspondingly, no one knows
@@ -129,6 +132,7 @@ outsiders about these factions and their differing goals.
 ## Grulvax 
 
 ![Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits.](/images/Grulvax.svg){align="left"  size="x-small" caption="Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits."}
+
 The Grulvax are a sapient species that is unknown in all of known space,
 aside from one individual, Jithal, currently engineer on the ship *Dire Straits*.
 
