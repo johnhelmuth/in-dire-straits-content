@@ -252,3 +252,4 @@ them, et cetera. They all look alike, they mostly act alike.
 >
 > They like to hang out in vat clone bars.
 
+![Picture of some Vat Clones waiting for mission to start.](/images/VatClones.svg){caption="Vat Clones waiting for mission start."}
