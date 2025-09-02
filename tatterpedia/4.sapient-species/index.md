@@ -9,6 +9,8 @@ extra-nav-links:
 
 ## Bearbles
 
+![Picture of a Bearble diagnosing a problem with life support.](/images/Bearble.svg){align="left" size="x-small" caption="Bearble diagnosing a problem with life support."}
+
 Sapients who mostly work in management and supervisory positions, in the
 middle tier of any organization. They are brightly colored puffy fur
 balls with three eyes and no visible mouth, nose, or ears, or legs,
