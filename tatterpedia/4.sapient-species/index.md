@@ -9,7 +9,7 @@ extra-nav-links:
 
 ## Bearbles
 
-![Picture of a Bearble diagnosing a problem with life support.](/images/Bearble.svg){align="left" size="x-small" caption="Bearble diagnosing a problem with life support."}
+![Picture of a Bearble diagnosing a problem with life support.](/images/BearbleColor.svg){align="right" size="x-small" caption="Bearble diagnosing a problem with life support."}
 
 Sapients who mostly work in management and supervisory positions, in the
 middle tier of any organization. They are brightly colored puffy fur
@@ -29,6 +29,8 @@ in place. The wrap has many pockets. They often wear wraps that contrast
 strongly with their natural coloring.
 
 ## Bontions
+
+![Picture of a Bontion bartender.](/images/BontionSign.svg){align="center"  size="small" caption="Bontion bartender."}
 
 5' tall black and orange striped caterpillar with 8 tentacles.
 
@@ -155,6 +157,8 @@ These guys are the worst.
 
 ## Ohlzor
 
+![Ohlzor mercenary](/images/OhlzorColor.svg){size="x-small" align="right" caption="Ohlzor mercenary"}
+
 8' tall, heavyset purple bipedal sapients. Known for working as
 mercenaries doing whatever work is needed. Loyal to anyone who pays
 them.
@@ -166,11 +170,12 @@ them.
 ***Slow Moving but Unflinching***
 
 ## Sariant
+
 A species with a snake-like body plan. They have a reputation as being flighty and unable to focus. They sometimes forget to pay for things, and are known in some areas as being “light-fingered”.
 
 ## So'enela
 
-![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="right" size="small" caption="Bane's Eye Space Navy Admiral So'enela."}
+![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="left" size="x-small" caption="Bane's Eye Space Navy Admiral So'enela."}
 
 7' tall, lanky, bilateral symmetry, bipedal, 2 wings. Long face with
 large eyes, large pointy ears, and a small black nose. They have 2 arms
