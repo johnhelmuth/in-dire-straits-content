@@ -1,0 +1,34 @@
+{
+  "type": "character",
+  "schemaVersion": "1",
+  "id": "delano-mack",
+  "name": "Delano Mack",
+  "description": "Short, 2nd rate Han Solo looking guy.",
+  "refresh": 3,
+  "fatePoints": 3,
+  "aspects": [
+    {
+      "aspectType": "High Concept",
+      "name": "Independent Carrier, Captain of the Jitterbug"
+    },
+    {
+      "aspectType": "Trouble",
+      "name": "They think they are better than me"
+    }
+  ],
+  "traitType": "skill",
+  "traits": [
+    {
+      "name": "Investigate",
+      "rank": 4
+    },
+    {
+      "name": "Shoot",
+      "rank": 3
+    },
+    {
+      "name": "Pilot",
+      "rank": 2
+    }
+  ]
+}
