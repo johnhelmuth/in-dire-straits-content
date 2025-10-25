@@ -6,6 +6,9 @@ Dates are in Galactic years.
 
 Translated to Galacticom by scholars of the Space Merchant Trading Federation affiliated institutions.
 
+## 7485
+Slipstream drive invented in Flant.
+
 ## 7538
 Strait point discovered between Flant and Clanpali by Flant strait scouts.
 
@@ -20,6 +23,9 @@ Small scientific research base is funded by ReSurge Corp, a Flant corporation, o
 
 ## 7559
 ReSurge Corp goes bankrupt and abandons research base on Balorn. Flant military evacuate the base.
+
+## 7561
+Slipstream drive invented in Adatharax.
 
 ## 7587
 Strait point discovered between Adatharax and Balorn by Adatharax strait scouts.
@@ -58,11 +64,15 @@ Trade between the Flantian Renewal and the Dathian Planetary Alliance increases,
 ## 7680
 The Flantian Renewal colony in Egret grows to the point where they can join the Flantian Renewal as a full member, a peer of the other planets in Flant system. Over the next two decades the Flantian Renewal experiences a series of chaotic shifts in their internal balance of power.
 
+## 7699
+Flantian Renewal scientists and engineers discover a more efficient slipstream drive, allowing them to travel faster between systems, with less fuel.
+
 ## 7702
-The Flantian Renewal undergoes an internal coup. The conservatives gain control, becomes a hierarchical government led by the home planet in Flant. The are renamed the Flantian Ascendency on a platform of aggressive expansionism.
+The Flantian Renewal undergoes an internal coup. The conservatives gain control, becomes a hierarchical government led 
+by the home planet in Flant. They rename themselves the Flantian Ascendency on a platform of aggressive expansionism.
 
 ## 7822
-Strait point discovered between Egret and Delvar by Flant strait scouts.
+Strait point discovered between Egret and Delvar by Flantian Ascendency strait scouts.
 
 ## 7849
 Strait point discovered between Adatharax and Delvar by Dathian Alliance strait scouts.
@@ -74,7 +84,7 @@ Strait point discovered between Adatharax and Clanpali by Dathian Alliance strai
 Strait point discovered between Clanpali and Egret by Delvar by Balorn strait scouts.
 
 ## 7901
-Strait point discovered between Egret and Balorn by Flant strait scouts.
+Strait point discovered between Egret and Balorn by Flantian Ascendency strait scouts.
 
 ## 7912
 The XV Wyvern discovers and shoots the inter-cluster strait from a known space cluster to Delvar, “First contact” with the Flant and Dathian Planetary Alliance naval bases near the strait points in the system that lead to Adatharax and Egret.

@@ -10,6 +10,14 @@ Underground* on Bane's Eye who work against the current government, that
 they consider to be illegitimate and fascist. These rumours are
 suppressed by Bane's Eye operatives whenever they crop up.
 
+### Dathian Planetary Alliance
+
+An interplanetary polity in the new cluster discovered in 7912, controlling 2 or 3 systems in their cluster.
+
+### Flantian Ascendency
+
+An interplanetary polity in the new cluster discovered in 7912, controlling 2 or 3 systems in their cluster.
+
 ### Galactic Standards Organization (GSO)
 
 The GSO is an intergalactic standards body that maintains and publishes technical, social, and spiritual standards used by sapients everywhere.
