@@ -3,6 +3,33 @@ title: Factions
 description: A list of factions in the game.
 ---
 
+### Banesian Underground
+
+There are rumours that there is a group of people, the *Banesian
+Underground* on Bane's Eye who work against the current government, that
+they consider to be illegitimate and fascist. These rumours are
+suppressed by Bane's Eye operatives whenever they crop up.
+
+### Galactic Standards Organization (GSO)
+
+The GSO is an intergalactic standards body that maintains and publishes technical, social, and spiritual standards used by sapients everywhere.
+
+The GSO's work is funded by membership dues. Most polities, universities, organizations, and large corporations in known space are members of the GSO, and
+includes representatives in the various working groups that determine the standards.
+
+#### List of GSO Standards.
+* GSO No. [000000000001](/tatterpedia/gso-standards/00000000001-universal-interstellar-time) Universal Interstellar Time (UIT).
+* GSO No. [314159265359](/tatterpedia/gso-standards/314159265359-intership-interspecies-secure-meeting-protocol) - Intership / interspecies secure meeting protocol.
+
+### Kel-Azaan Resistance
+
+A coalition of distant interstellar civilizations on the far side of known space
+who fought against the [Invicta Swarm](/tatterpedia/sapient-species#invicta-swarm) expansion in the last decade or so.
+
+### Majestic Services
+
+A company incorporated in Bane’s Eye that runs several passenger liners within the local cluster, including the _Siouxiana_, which destroyed by the Pirate Queen Ramekin Finch on 7922-007.
+
 ### Science Foundation
 
 Independent of any local or cluster government(s), the **Science
@@ -27,15 +54,6 @@ organizations, and others rely on public funding.
       exclusively on pure computation and clean mathematical models of
       life.
 
-
-### The Syndicate
-
-The Syndicate is an organized crime organization that is spread across
-most of the local cluster and the connecting clusters both coreward and
-rimward. With good PR resources, they maintain a public face in most
-systems as local do-gooders, just helping the little guy.
-
-
 ### Scouts Guild
 
 The Scouts Guild is spread across known space, independent of any
@@ -57,6 +75,22 @@ slipstream strait parameters, and re-selling them to corporations and
 non-members. Members in the Guild automatically receive new slipstream
 strait parameters for free as part of the benefits of membership.
 
+### Space Merchant Trading Federation (SMTF)
+
+When the new cluster that already had advanced Slipstream drives was discovered in 7912, the surrounding clusters formed
+The Space Merchant Trading Federation (SMTF) to deal with the new polities in the cluster.
+The SMTF is made up of dozens of polities, corporations, species, academic, and other organizations from the nearby clusters.
+
+### The Syndicate
+
+The Syndicate is an organized crime organization that is spread across
+most of the local cluster and the connecting clusters both coreward and
+rimward. With good PR resources, they maintain a public face in most
+systems as local do-gooders, just helping the little guy.
+
+### Tepchania Institute of Technology
+
+A prestigious engineering university on [Tepchania](places#tepchania). Informally known as TIT.
 
 ### Vat Clones Organization
 
@@ -64,36 +98,3 @@ There is a shadowy organization that produces [Vat
 Clones](/tatterpedia/sapient-species#vat-clones) and hires them out as mercenaries.
 Most people have no idea how you would go about hiring new vat clones,
 but they keep showing up in the wars that spring up across known space.
-
-
-### Banesian Underground
-
-There are rumours that there is a group of people, the *Banesian
-Underground* on Bane's Eye who work against the current government, that
-they consider to be illegitimate and fascist. These rumours are
-suppressed by Bane's Eye operatives whenever they crop up.
-
-### Kel-Azaan Resistance
-
-A coalition of distant interstellar civilizations on the far side of known space
-who fought against the [Invicta Swarm](/tatterpedia/sapient-species#invicta-swarm) expansion in the last decade or so.
-
-### Tepchania Institute of Technology
-
-A prestigious engineering university on [Tepchania](places#tepchania). Informally known as TIT.
-
-### Majestic Services
-
-A company incorporated in Bane’s Eye that runs several passenger liners within the local cluster, including the _Siouxiana_, which destroyed by the Pirate Queen Ramekin Finch on 7922-007.
-
-### Galactic Standards Organization (GSO)
-
-The GSO is an intergalactic standards body that maintains and publishes technical, social, and spiritual standards used by sapients everywhere.
-
-The GSO's work is funded by membership dues. Most polities, universities, organizations, and large corporations in known space are members of the GSO, and
-includes representatives in the various working groups that determine the standards.
-
-#### List of GSO Standards.
-
-* GSO No. [000000000001](/tatterpedia/gso-standards/00000000001-universal-interstellar-time) Universal Interstellar Time (UIT).
-* GSO No. [314159265359](/tatterpedia/gso-standards/314159265359-intership-interspecies-secure-meeting-protocol) - Intership / interspecies secure meeting protocol.

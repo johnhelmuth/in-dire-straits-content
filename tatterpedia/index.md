@@ -9,8 +9,10 @@ The friendly interface to all knowledge in known space.
 
 * [Faces](/tatterpedia/faces)
 * [Places](/tatterpedia/places)
-  * [Star Systems](/tatterpedia/places/star-systems)
-  * [Local Systems Travel Table](/tatterpedia/places/local-cluster-travel-table)
+  * [Local Cluster](/tatterpedia/places/clusters/local-cluster)
+    * [Travel Table](/tatterpedia/places/clusters/local-cluster/cluster-travel-table)
+  * [Other Local Cluster](/tatterpedia/places/clusters/other-local-cluster)
+    * [Time Line](/tatterpedia/places/clusters/other-local-cluster/cluster-time-line)
 * [Factions](/tatterpedia/factions)
 * [Sapient Species](/tatterpedia/sapient-species)
 * [Ships](/tatterpedia/ships)
