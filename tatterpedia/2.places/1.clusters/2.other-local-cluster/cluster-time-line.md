@@ -4,7 +4,7 @@ title: History of cluster
 
 Dates are in Galactic years. 
 
-Translated to Galacticom by scholars of the Space Merchant Trading Federation affiliated institutions.
+Translated to Galacticom by scholars of Space Merchant Trading Federation affiliated institutions.
 
 ## 7485
 Slipstream drive invented in Flant.
