@@ -17,6 +17,6 @@ Meanwhile Jithal noticed a figure moving quickly towards the office, carrying so
 
 In the ensuing scuffle, the albino Invicta Baneseye was subdued by a combination of Jithal’s sneak tackle from the vent above the door, a clever use of Chris’s pheromones, and Steve’s calming words.
 
-Although they quickly disabled the head-cam, they realized that Chris, Steve, Delano, Thunterperg, and the So’enela Banesian Underground member would be identified from the head-cam’s live-stream. They needed to get out of their fast before the Invicta Baneseye’s compatriots showed up.
+Although they quickly disabled the head-cam, they realized that Chris, Steve, Delano, Thunterperg, and the So’enela Banesian Underground member would be identified from the head-cam’s live-stream. They needed to get out of there fast before the Invicta Baneseye’s compatriots showed up.
 
 The So’enela agent and Thunterperg left the tunnels with Craln and his crewmates to *Lurbon’s Grackle* and the Dire Straits crew left for the Dire Straits.
