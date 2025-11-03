@@ -5,7 +5,7 @@ in_game_start: 7922-012 08:30
 in_game_end: 7922-012 11:35
 ---
 
-Back on the *Dire Straits*, Chris takes the Baneseye agent Teneral to the medbay and restrains him there. He creates a batch of pheromones that he knows will kep Teneral docile, and they talk for a bit.
+Back on the *Dire Straits*, Chris takes the Baneseye agent Teneral to the medbay and restrains him there. He creates a batch of pheromones that he knows will keep Teneral docile, and they talk for a bit.
 
 Steve Irwin files a flight plan to undock from Alreekt, taking a retrograde stellar orbit to Carkargar. The space traffic control of Alreekt Station recognises Steve Irwin and the *Dire Straits*. Delano Mack undocks and starts on the flight plan and maneuvers the *Dire Straits* so it stays outside of the Alreekt’s sensor range, and so that it would take them about an hour to get back there.
 
