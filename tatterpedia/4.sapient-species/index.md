@@ -9,7 +9,7 @@ extra-nav-links:
 
 ## Bearbles
 
-![Picture of a Bearble diagnosing a problem with life support.](/images/BearbleColor.svg){align="right" size="x-small" caption="Bearble diagnosing a problem with life support."}
+::paragraph-with-image{src="/images/BearbleColor.svg" align="left" size="x-small" caption="Bearble diagnosing a problem with life support."}
 
 Sapients who mostly work in management and supervisory positions, in the
 middle tier of any organization. They are brightly colored puffy fur
@@ -28,13 +28,18 @@ hemisphere, with straps over the top of their headbodytorso to hold it
 in place. The wrap has many pockets. They often wear wraps that contrast
 strongly with their natural coloring.
 
+::
+
 ## Bontions
 
-![Picture of a Bontion bartender.](/images/BontionSign.svg){align="center"  size="small" caption="Bontion bartender."}
+::paragraph-with-image{src="/images/BontionSign.svg" align="right" size="small" caption="Bontion bartender."}
 
 5' tall black and orange striped caterpillar with 8 tentacles.
 
+::
+
 ## The Calcoran Schools
+::paragraph-with-image{src="/images/Calcoran.svg" align="center"  size="large" caption="Picture of a Calcoran School sapient."}
 
 The Calcoran Schools are a sapient species who evolved underwater, and
 are considered by humans to be a cross between jellyfish and dolphins.
@@ -46,18 +51,21 @@ so that sometimes the species are just referred to as "the Bankers."
 They organized and funded the coalition that resisted the Invicta
 Swarm's expansion into the greater galaxy.
 
-![Picture of a Calcoran School sapient.](/images/Calcoran.svg){align="center"  size="large" caption="Picture of a Calcoran School sapient."}
+::
 
 ## Cronstak
+
+::paragraph-with-image{src="/images/Cronstak.svg" align="left" size="small" caption="Picture of a Cronstak ready for anything."}
 
 Sapients who looks like a three-legged mongoose with vestigial, furry
 wings, and 3 arms that end in 6 fingered hands, including 2 opposable
 thumbs.
 
-![Picture of a Cronstak ready for anything.](/images/Cronstak.svg){align="center" size="small" caption="Picture of a Cronstak ready for anything."}
+::
 
 ## Invicta Swarm
 
+::paragraph-with-image{src="/images/Invicta.svg" align="right" size="small" caption="Picture of an Invicta Swarm soldier."}
 Ant-like sapients from a cluster far away from the local cluster. They
 are a caste based species, with individuals having very different body
 plans based on their purpose within the species. They are led by a
@@ -66,8 +74,6 @@ battle. There are variants of the Soldier caste, Pilot caste, who are
 hatched in tandem with the frame of their starfighter. They retain most
 of the hand-to-hand skills of the base Soldier caste, but have a
 preternatural connection to the systems of their starfighter. 
-
-![Picture of an Invicta Swarm soldier.](/images/Invicta.svg){align="left" size="x-small" caption="Picture of an Invicta Swarm soldier."}
 
 The Invicta Swarm is a galactically-distant species of hostile,
 expansionist bug-aliens (Ant-Hive type). They have 11 Star Systems and a
@@ -88,6 +94,8 @@ Starship Troopers-style propaganda Tattnet show about it) and the
 Swarm's expansion was halted. Let's say the coalition is called the
 Kel-Azaan Resistance.
 
+::
+
 The less commonly known truth is a weaponized Science
 Foundation-engineered virus infected the Swarm's technology and Queen,
 glitching their technology and lowering their birth rate.They could
@@ -102,7 +110,7 @@ single Drone. How this Princess is being used is not yet established.)
 
 ## The Flotilla
 
-![A Flotilla trader showing trade markings on their suits.](/images/Flotilla.svg){align="right"  size="small" caption="A Flotilla trader showing trade markings on their suits."}
+::paragraph-with-image{src="/images/Flotilla.svg" align="left"  size="small" caption="A Flotilla trader showing trade markings on their suits."}
 
 A species that lost their home world and now lives in a flotilla of
 ships in open space. Their biology and environment requirements are such
@@ -116,6 +124,7 @@ other species, and overall they act almost ubiquitously humble and
 obsequious. They are open about telling the story of their lost home
 world, and of their hubris that caused it. Now there is a strong
 cultural push toward humility and "not rocking the boat".
+
 
 The Flotilla moves nomadically from cluster to cluster every decade or
 two, but while they're around they try to establish trade relations
@@ -133,9 +142,11 @@ their "environmental constraints" are just a cover story.
 There are factions within the Flotilla, but not much is known by
 outsiders about these factions and their differing goals.
 
+::
+
 ## Grulvax 
 
-![Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits.](/images/Grulvax.svg){align="left"  size="x-small" caption="Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits."}
+::paragraph-with-image{src="/images/Grulvax.svg" align="right"  size="small" caption="Jithal the Grulvax fixing a conduit in the maintenance tunnels of the Dire Straits."}
 
 The Grulvax are a sapient species that is unknown in all of known space,
 aside from one individual, Jithal, currently engineer on the ship *Dire Straits*.
@@ -151,13 +162,15 @@ do not have the idea many other sapients have of "personal space."
 As mentioned, they do not have eyes, but use a sort of radar to make
 sense of the space around them.
 
+::
+
 ## Humans
 
 These guys are the worst.
 
 ## Ohlzor
 
-![Ohlzor mercenary](/images/OhlzorColor.svg){size="x-small" align="right" caption="Ohlzor mercenary"}
+::paragraph-with-image{src="/images/OhlzorColor.svg" size="small" align="right" caption="Ohlzor mercenary"}
 
 8' tall, heavyset purple bipedal sapients. Known for working as
 mercenaries doing whatever work is needed. Loyal to anyone who pays
@@ -169,13 +182,15 @@ them.
 
 ***Slow Moving but Unflinching***
 
+::
+
 ## Sariant
 
 A species with a snake-like body plan. They have a reputation as being flighty and unable to focus. They sometimes forget to pay for things, and are known in some areas as being “light-fingered”.
 
 ## So'enela
 
-![Picture of a male alien So'enela with brightly colored wings.](/images/banes-eye-space-navy-admiral.png){align="left" size="x-small" caption="Bane's Eye Space Navy Admiral So'enela."}
+::paragraph-with-image{src="/images/banes-eye-space-navy-admiral.png" align="left" size="small" caption="Bane's Eye Space Navy Admiral So'enela."}
 
 7' tall, lanky, bilateral symmetry, bipedal, 2 wings. Long face with
 large eyes, large pointy ears, and a small black nose. They have 2 arms
@@ -194,6 +209,8 @@ The males' wings are feathered in multiple shades of bright colors,
 greens, reds, oranges, purples, blues, while the females are in the
 plainer colors usually matching their body fur.
 
+::
+
 They mate for life. The females lay a single clutch of 5-10 eggs, and
 the males keep them warm and raise the surviving young while the females
 typically provide food and maintain the homes.
@@ -211,6 +228,8 @@ Eye.
 ***Our god is always watching what we do***
 
 ## Vat Clones
+
+::paragraph-with-image{src="/images/VatClones.svg" vertical-position="after" size="large" caption="Vat Clones waiting for mission start."}
 
 Even though Vat clones look like humans, they are gene-engineered from
 human DNA to be the perfect low-level soldier. It's not generally know
@@ -258,5 +277,3 @@ them, et cetera. They all look alike, they mostly act alike.
 > care for promotions or being promoted with maybe an exception or two.
 >
 > They like to hang out in vat clone bars.
-
-![Picture of some Vat Clones waiting for mission to start.](/images/VatClones.svg){caption="Vat Clones waiting for mission start."}

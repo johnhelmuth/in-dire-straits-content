@@ -5,7 +5,8 @@ in_game_start: 7922-008 08:30
 in_game_end: 7922-008 08:45
 ---
 
-![](/images/Molgri.jpg){align="right"  caption="Ramekin Finch's pet Molgri, Malky."}
+::paragraph-with-image{src="/images/Molgri.jpg" align="right" size="small" caption="Ramekin Finch's pet Molgri, Malky."}
+
 The crew of the *Dire Straits*, Delano Mack, the survivors of the pirate attack of the *Siouxiana*, including Elizabeth
 Catlow, tried to run the gauntlet of Ramekin Finch’s pirates, the Finchmen, through the Concourse of her pirate base.
 They made it as far as the cargo airlock leading to the ships bay and the ships bay control room, although Steve Irwin
@@ -15,6 +16,7 @@ an enormous jumping spider with a roar like a lion.
 Chris and Steve Irwin figured out a way to lure the Mogri away from the cargo airlock, which would hopefully allow them
 to rejoin their friends. Jithal, Delano, and Jim continued to battle a new set of Finchmen, led by the Ohlzor pirate
 leader Uvod Sulmaith.
+::
 
 ## Mid-Conflict exchange status
 
