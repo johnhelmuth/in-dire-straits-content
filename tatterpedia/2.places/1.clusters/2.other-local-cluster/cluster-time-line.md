@@ -81,7 +81,7 @@ Strait point discovered between Adatharax and Delvar by Dathian Alliance strait 
 Strait point discovered between Adatharax and Clanpali by Dathian Alliance strait scouts.
 
 ## 7880
-Strait point discovered between Clanpali and Egret by Delvar by Balorn strait scouts.
+Strait point discovered between Clanpali and Delvar by Balorn strait scouts.
 
 ## 7901
 Strait point discovered between Egret and Balorn by Flantian Ascendency strait scouts.
