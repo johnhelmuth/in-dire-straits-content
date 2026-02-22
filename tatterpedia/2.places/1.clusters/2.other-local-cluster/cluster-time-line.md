@@ -59,16 +59,16 @@ Flantarin Renewal scout ships visit Balorn and discover the well established Bal
 Flantarin Renewal colonizes Egret system.
 
 ## 7640-7700
-Trade between the Flantian Renewal and the Dathian Planetary Alliance increases, to the benefit of both polities. Immigration/Emigration ratio between the two polities is at parity. Population in general increases everywhere in the local cluster.
+Trade between the Flantarin Renewal and the Dathian Planetary Alliance increases, to the benefit of both polities. Immigration/Emigration ratio between the two polities is at parity. Population in general increases everywhere in the local cluster.
 
 ## 7680
-The Flantian Renewal colony in Egret grows to the point where they can join the Flantian Renewal as a full member, a peer of the other planets in Flant system. Over the next two decades the Flantian Renewal experiences a series of chaotic shifts in their internal balance of power.
+The Flantarin Renewal colony in Egret grows to the point where they can join the Flantarin Renewal as a full member, a peer of the other planets in Flant system. Over the next two decades the Flantarin Renewal experiences a series of chaotic shifts in their internal balance of power.
 
 ## 7699
-Flantian Renewal scientists and engineers discover a more efficient slipstream drive, allowing them to travel faster between systems, with less fuel.
+Flantarin Renewal scientists and engineers discover a more efficient slipstream drive, allowing them to travel faster between systems, with less fuel.
 
 ## 7702
-The Flantian Renewal undergoes an internal coup. The conservatives gain control, becomes a hierarchical government led 
+The Flantarin Renewal undergoes an internal coup. The conservatives gain control, becomes a hierarchical government led 
 by the home planet in Flant. They rename themselves the Flantian Ascendency on a platform of aggressive expansionism.
 
 ## 7822
