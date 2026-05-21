@@ -3,15 +3,14 @@ title: Places
 description: A list of locations in the game, including star systems, space stations, cities, and businesses.
 ---
 
-## Local Cluster
+## Detailed Clusters
 
-[Local Cluster Star Systems](/tatterpedia/places/clusters/local-cluster)
-
-## Other Local Cluster
-
-[Other Local Cluster Star Systems](/tatterpedia/places/clusters/other-local-cluster)
+* [Local Cluster Star Systems](/tatterpedia/places/clusters/local-cluster)
+* [Other Local Cluster Star Systems](/tatterpedia/places/clusters/other-local-cluster)
 
 ## Other Clusters
+
+Here are some places described in the setting that are not in any of the local clusters.
 
 ### Tepchania
 

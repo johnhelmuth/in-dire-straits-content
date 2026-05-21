@@ -10,13 +10,13 @@ in_game_end:  7922-010 20:00
 
 During the transit across Gold Seed system to the Dragongull’s Cry strait point, several tatternet messages are received on the *Dire Straits*.
 
-Delano Mack gets an [anonymous tatternet message](/sessions/session-12-addenda/anonymous-tatternet-message-for-delano-mack-7922-009-16-45).
+Delano Mack gets an [anonymous tatternet message](/campaigns/campaign-1/session-12-addenda/anonymous-tatternet-message-for-delano-mack-7922-009-16-45).
 
-Jithal gets a [tatternet message from Dohpaz Vito](/sessions/session-12-addenda/dohpaz-vitos-tatternet-message-for-jithal-7922-009-18-57).
+Jithal gets a [tatternet message from Dohpaz Vito](/campaigns/campaign-1/session-12-addenda/dohpaz-vitos-tatternet-message-for-jithal-7922-009-18-57).
 
-Steve Irwin gets a [tatternet message from Taedala Suda](/sessions/session-12-addenda/taedala-sudas-tatternet-message-for-dr-irwin-7922-009-21-35).
+Steve Irwin gets a [tatternet message from Taedala Suda](/campaigns/campaign-1/session-12-addenda/taedala-sudas-tatternet-message-for-dr-irwin-7922-009-21-35).
 
-Steve Irwin gets a [tatternet message from Dr. Attenborough](/sessions/session-12-addenda/dr-attenboroughs-tatternet-message-for-dr-irwin-7922-009-22-05).
+Steve Irwin gets a [tatternet message from Dr. Attenborough](/campaigns/campaign-1/session-12-addenda/dr-attenboroughs-tatternet-message-for-dr-irwin-7922-009-22-05).
 
 Steve Irwin replies to Dr. Attenborough’s message (TODO: get the reply from Jon T.)
 
