@@ -15,3 +15,27 @@ planet Gaia above the capitol city of the New Earth Directory.
 
 The NED recently won a war of secession, and the soldiers have been coming home
 and changing the tenor of society.
+
+## Cluster astrography
+
+We determined that the cluster was made up of 4 star systems. The invention of the strait drive by
+scientists on the planet Gaia in system ***TBNAMED-A***. They quickly  
+colonized the uninhabited systems ***TBNAMED-B*** and ***TBNAMED-C***.
+
+They eventually discovered the system ***TBNAMED-D*** which was surprisingly inhabited by humans. The people of 
+***TBNAMED-D*** had an active 
+space-based economy already, although they had not reached the point of developing the strait drive. 
+
+They allowed the people of ***TBNAMED-D*** to join the growing interstellar government, but eventually tensions grew 
+between the two very different societies to the point where ***TBNAMED-D*** petitioned for more control of their 
+system. They were turned down, several years in a row, until they declared their independence, and the ensuing war 
+lasted for a dozen years.
+
+## Issues
+
+### ***The Soldiers Have Come Home to Roost***
+
+The war between the New Earth Directory and the secessionist colony ***TBNAMED-D*** has ended with the Battle of
+***TBNAMED-E***. The soldiers have returned to their home planets, many with their equipment, either as part of their
+discharge or taken in battle. Society is changing from operating under war-time rationing of supplies to dealing
+with the massive influx of soldiers.
