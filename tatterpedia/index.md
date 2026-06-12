@@ -13,6 +13,8 @@ The friendly interface to all knowledge in known space.
     * [Travel Table](/tatterpedia/places/clusters/local-cluster/cluster-travel-table)
   * [Other Local Cluster](/tatterpedia/places/clusters/other-local-cluster)
     * [Time Line](/tatterpedia/places/clusters/other-local-cluster/cluster-time-line)
+  * [Isolated Cluster](/tatterpedia/places/clusters/isolated-cluster)
+    * [Time Line](/tatterpedia/places/clusters/isolated-cluster/cluster-time-line)
 * [Factions](/tatterpedia/factions)
 * [Sapient Species](/tatterpedia/sapient-species)
 * [Ships](/tatterpedia/ships)
