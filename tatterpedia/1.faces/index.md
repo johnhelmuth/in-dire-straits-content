@@ -23,6 +23,24 @@ Will: **Good (+3)**
 Engineering professor at the [Tepchania Institute of Technology](factions#tepchania-institute-of-technology). Trusted
 by [Dr. Indira Attenborough, sapientologist](faces#dr-indira-attenborough).
 
+### Shelley Bowers
+
+Teenage girl who is a member of the _Port Rails_ _Blackadder_ gang. Her parents 
+are highly placed in the _Port Rails_ governing body. Her father spoils her a
+lot. 
+
+She is interested in transhumanism, but her father thinks she is just going
+through a phase.
+
+She looks up to Delilah Lands, who she thinks "Gets her, you know?". 
+
+She bought a pipe-scooter to fly in the space around _Port Rails_, although her
+father does not know it. (She used money she got from her father to buy new 
+shoes and a purse.)
+
+Delilah Lands and Dwabit are hiding her pipe scooter in the PRPA hangar bay, for
+the moment.
+
 ### Thunterperg Brelt
 
 Taller and thinner than most Cronstak, Thunterperg has light cream fur with large black spots. She feels this sets her apart from others and leans into it by wearing a matching jumpsuit. She works in the Alreekt Station algae processing facilities. She is also an amateur marine biologist who is concerned about the plight of the Concord Narwhallaby.
@@ -78,11 +96,33 @@ Bontion (5’ tall black and orange striped caterpillar with 8 tentacles) mercha
 Runs a shop in Alodon on Seed that imports and re-sells off-planet fashions for those who can afford it. She is a polite
 severe human who dresses in simple high-quality off-planet styles.
 
+### Captain Marco Martinez
+
+[Character sheet](/characters/captain-martinez)
+
+Captain Martinez fought in the secession war for the _New Earth
+Directorate_ against the culture that the NED had subsumed in the _Cyron_ 
+system. When he was discharged after the Treaty of Coelare A was signed, he 
+returned to his home on _Gaia_ and went through a series of jobs until he ended
+up working for the _Port Rails Port Authority_ as Captain of the space tug, the
+_NED Tugboat_.
+
+Aspects: 
+* **_Narcissistic entitled "War Hero" promoted to the level of his incompetence._**
+* **_I don't have a drinking problem._**
+* **_"I'll get to the requisitions when I get to them, and not a minute before!"_**
+* **_My shit-list is pretty long, and Delilah Land is on top._**
+
+Knowing people in high places **Fair (+2)**
+
+Everything else **Mediocre (0)**
+
 ### Sargent Guts Matronas
 
 Aspects: **_Long Suffering Bodyguard of Lady Ariana ; Too old for this shit, but it is my duty_**
 
 Fight, Athletics: **Good (+3)**, (Sword)
+
 Physique: **Fair (+2)**
 
 ### Captain Vilarn Polustan
@@ -137,4 +177,5 @@ Will: **Good (+3)**
 Aspects: **_Spoiled Wastrel Daughter of House Zanetti of Golden Seed ; Loves a good fight and shiny things_**
 
 Fight, Athletics: **Fair (+2)**, (Sword cane)
+
 Will: **Good (+3)** (Stubborn)

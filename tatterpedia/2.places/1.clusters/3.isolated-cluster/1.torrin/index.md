@@ -27,3 +27,11 @@ Around the time those colonies were firmly established, a third strait point in
 Torrin system was found to Cyron, an inhabited system with a highly developed 
 technology, including being able to exploit the resources in their system, but
 had not yet discovered the slipstream drive.
+
+## Places
+
+* Gaia
+  * Port Rails
+    * Lasana
+      * The Loreto
+  * Capital city
