@@ -16,6 +16,7 @@ The friendly interface to all knowledge in known space.
   * [Isolated Cluster](/tatterpedia/places/clusters/isolated-cluster)
     * [Time Line](/tatterpedia/places/clusters/isolated-cluster/cluster-time-line)
 * [Factions](/tatterpedia/factions)
+  * [Isolated Cluster (campaign 2)](/tatterpedia/factions/isolated-cluster)
 * [Sapient Species](/tatterpedia/sapient-species)
 * [Ships](/tatterpedia/ships)
 * [Technology](/tatterpedia/technology)

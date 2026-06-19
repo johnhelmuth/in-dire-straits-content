@@ -3,6 +3,8 @@ title: Factions
 description: A list of factions in the game.
 ---
 
+For campaign 2 factions in the isolated cluster, see the [isolated cluster factions](/tatterpedia/factions/isolated-cluster) page.
+
 ### Banesian Underground
 
 There are rumours that there is a group of people, the *Banesian
