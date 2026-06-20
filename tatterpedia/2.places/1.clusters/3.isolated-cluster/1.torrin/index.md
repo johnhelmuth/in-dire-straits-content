@@ -30,8 +30,8 @@ had not yet discovered the slipstream drive.
 
 ## Places
 
-* Gaia
-  * Port Rails
+* [Gaia](/tatterpedia/places/clusters/isolated-cluster/torrin/gaia)
+  * [Port Rails](/tatterpedia/places/clusters/isolated-cluster/torrin/port-rails)
     * Lasana
       * The Loreto
   * Capital city

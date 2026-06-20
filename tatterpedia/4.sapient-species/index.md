@@ -188,6 +188,8 @@ them.
 
 A species with a snake-like body plan. They have a reputation as being flighty and unable to focus. They sometimes forget to pay for things, and are known in some areas as being “light-fingered”.
 
+::paragraph-with-image{src="/images/Sariant.svg" align="center" size="small" caption="Sariant"}
+
 ## So'enela
 
 ::paragraph-with-image{src="/images/banes-eye-space-navy-admiral.png" align="left" size="small" caption="Bane's Eye Space Navy Admiral So'enela."}

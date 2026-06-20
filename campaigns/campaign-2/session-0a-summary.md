@@ -79,7 +79,7 @@ pressurizing the airlock to get Shelley out, who was standing on the other side
 of the inner airlock door.
 
 Assuming that the new ship was targeting the _Tugboat_, Dwabit quickly 
-maneuvered behind the _Lullaby_. Shelley used her control of the _Lullaby_ to 
+maneuvered behind the _Lullaby_. Deli used her control of the _Lullaby_ to 
 blow its airlock evacuating all the air from the ship, throwing Shelley into 
 Scout, who grabbed onto her as they were both quickly forced away from the ship.
 

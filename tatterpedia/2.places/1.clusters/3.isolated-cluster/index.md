@@ -4,7 +4,7 @@ title: Isolated Cluster
 
 ## Cluster Historic Timeline
 
-[Time Line](/tatterpedia/places/clusters/isolated-cluster/cluster-time-line)
+[A short history of the cluster](/tatterpedia/places/clusters/isolated-cluster/cluster-history)
 
 [Cluster map](/map/campaign-2-cluster)
 

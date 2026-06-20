@@ -5,6 +5,7 @@ description: A list of factions in the Isolated Cluster.
 
 
 * Factions
+  * [Port Rails Port Authority](/tatterpedia/factions/isolated-cluster/port-rails-port-authority)
   * Port Rails Security
   * Fronk’s Salvage Service
     * Smallish salvage service. Will be frequent bidder on auctions for
@@ -19,10 +20,11 @@ description: A list of factions in the Isolated Cluster.
     * Their “colors” are kilts of
       the [Scottish Blackadder clan tartan](https://www.scotclans.com/blogs/clans-b/clan-blackadder-tartans),
       green and blue, with black and white accents.![](/images/torrin/blackadder_gang_colors_500x.jpg){align="center" size="xx-small"}
-  * Vat Clones Veterans of Foreign Wars Association (VCVA)
+  * Vat Clones Veterans of Foreign Wars Association (VCVFWA) ![](/images/torrin/harlan-paulsen-vat-clone.png){size="xx-small" align="right" caption="Harlan Paulsen, VCVFWA Port Rails Chapter President"}
     * Vat clones have gotten together and formed an association to support them
-      as the age. The chapter for the capital city meets at Loretos in the
+      as the age. The chapter for Port Rails meets at The Loreto in the
       Lasana neighborhood.
+    * Harlan Paulsen is the Port Rails chapter of the VCVFWA
   * Space Workers Union
     * Confederation of separate unions for specific specialties of space
       workers; they are all members of the SWU.
