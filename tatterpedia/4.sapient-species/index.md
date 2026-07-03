@@ -231,7 +231,10 @@ Eye.
 
 ## Tardigrada
 
-> *Excerpt of a student's notes from "Life in the Void: Vol. 2" by Dr. Steven Irwin*
+::paragraph-with-image{src="/images/Tardigrada063026_1.jpg" align="right" size="small" caption="Picture of a Tardigrada resting."}
+
+*Excerpt of a student's notes from "Life in the Void: Vol. 2" by Dr. Steven Irwin*
+
 > 
 > ### General
 >
@@ -254,7 +257,9 @@ Eye.
 > * Tardigrada are a very social people, and even with other Tardigrada around they will try integrate themselves within other sapient societies
 > * The only thing worse than entering the tun state alone, is being "trapped" awake and alone
 > * Despite the danger, they feel an instinctive call to float in space, and therefore excel in integrating with space-faring cultures.
-> 
+>
+
+::
 
 ## Vat Clones
 
