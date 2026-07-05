@@ -51,6 +51,20 @@ so that sometimes the species are just referred to as "the Bankers."
 They organized and funded the coalition that resisted the Invicta
 Swarm's expansion into the greater galaxy.
 
+Most of the members of the larger Calcoran Schools follow a naming convention
+for surnames made up of the general Calcoran Schools Cluster ID (CSCID) for the
+cluster in which the member's school is based, followed by the names of the
+System, the orbiting body, and the school itself. This is joined with a
+conjunction indicating personal mating status, such as _aan_ meaning an unjoined
+female, and finally the family name. There may be another modifier tied to the
+family name representing the member's status in the family.
+
+Example: _Dr. Ridley 6ad-Bayanul-Longshores-Swifttide aan Caast-Foundling, PhD_
+
+The Calcoran Schools Cluster Identifier (CSCID) is an identifier used by the
+Calcoran Schools data processing systems to uniquely identify clusters within
+known space.
+
 ::
 
 ## Cronstak
@@ -233,30 +247,52 @@ Eye.
 
 ::paragraph-with-image{src="/images/Tardigrada063026_1.jpg" align="right" size="small" caption="Picture of a Tardigrada resting."}
 
-*Excerpt of a student's notes from "Life in the Void: Vol. 2" by Dr. Steven Irwin*
+*Excerpt of a student's notes from "Life in the Void: Vol. 2" by Dr. Steven
+Irwin*
 
-> 
 > ### General
 >
-> * Tardigrada are humanoid sapients evolved from tardigrades, and adapted to survive in the vaccum of space
-> * About four feet tall, two legs, four arms with small sloth-like claws, short snouts with a semi-prehensile tongue, thick skin, small eyes
-> * They do not breathe and can survive in the vacuum of space for extended periods
-> * Their metabolism works mostly by absorbing and breaking down (cosmic) radiation but they can eat "normal" food, supplemented with a small amount of other rocks/minerals from space dust
-> * They are extremeophiles and very long-lived, but as tough as their bodies are, their long-term memories aren't so robust and fade over time
-> * Their eyes are sensitive to a wide EM spectrum to help them find the radiation they need (esp. while floating in space), but it means they can be overwhelmed in "civilized" areas with lots of artificial lighting
+> * Tardigrada are humanoid sapients evolved from tardigrades, and adapted to
+    survive in the vaccum of space
+> * About four feet tall, two legs, four arms with small sloth-like claws, short
+    snouts with a semi-prehensile tongue, thick skin, small eyes
+> * They do not breathe and can survive in the vacuum of space for extended
+    periods
+> * Their metabolism works mostly by absorbing and breaking down (cosmic)
+    radiation but they can eat "normal" food, supplemented with a small amount
+    of other rocks/minerals from space dust
+> * They are extremeophiles and very long-lived, but as tough as their bodies
+    are, their long-term memories aren't so robust and fade over time
+> * Their eyes are sensitive to a wide EM spectrum to help them find the
+    radiation they need (esp. while floating in space), but it means they can be
+    overwhelmed in "civilized" areas with lots of artificial lighting
 >
 > ### Tun state
-> * When necessary (aka floating in space without enough radiation) they can enter a hibernation or "tun state" where they "dry out" and crystalize
-> * They can float in the tun state basically forever, with the hope that they eventually drift near enough to a radiation source that can re-awaken them
-> * While their body can usually resuscitate without issue (unless something hits them) their memory does still unfortunately degrade while in the tun state (though at a slower rate)
-> * Entering the tun state is not done lightly nor is it a "quick fix", it's a gamble that the Tardigrada accepts each time as most likely the "death" of their latest life in time and place, if not their permanent death
+> * When necessary (aka floating in space without enough radiation) they can
+    enter a hibernation or "tun state" where they "dry out" and crystalize
+> * They can float in the tun state basically forever, with the hope that they
+    eventually drift near enough to a radiation source that can re-awaken them
+> * While their body can usually resuscitate without issue (unless something
+    hits them) their memory does still unfortunately degrade while in the tun
+    state (though at a slower rate)
+> * Entering the tun state is not done lightly nor is it a "quick fix", it's a
+    gamble that the Tardigrada accepts each time as most likely the "death" of
+    their latest life in time and place, if not their permanent death
 > ### Culture
-> * Tardigrada have been dispersed throughout space for potentially tens of thousands of years, few if any have any knowledge, let alone memory or direct experience, of their homeworld or system
-> * While there are small enclaves of Tardigrada in different systems, it's not unheard of for small units to become separated from these larger groups, esp. during catastrophic events
-> * When forced, Tardigrada prefer to enter the tun state in groups, interlocking their limbs to keep drifting together (like sleeping otters)
-> * Tardigrada are a very social people, and even with other Tardigrada around they will try integrate themselves within other sapient societies
-> * The only thing worse than entering the tun state alone, is being "trapped" awake and alone
-> * Despite the danger, they feel an instinctive call to float in space, and therefore excel in integrating with space-faring cultures.
+> * Tardigrada have been dispersed throughout space for potentially tens of
+    thousands of years, few if any have any knowledge, let alone memory or
+    direct experience, of their homeworld or system
+> * While there are small enclaves of Tardigrada in different systems, it's not
+    unheard of for small units to become separated from these larger groups,
+    esp. during catastrophic events
+> * When forced, Tardigrada prefer to enter the tun state in groups,
+    interlocking their limbs to keep drifting together (like sleeping otters)
+> * Tardigrada are a very social people, and even with other Tardigrada around
+    they will try integrate themselves within other sapient societies
+> * The only thing worse than entering the tun state alone, is being "trapped"
+    awake and alone
+> * Despite the danger, they feel an instinctive call to float in space, and
+    therefore excel in integrating with space-faring cultures.
 >
 
 ::
