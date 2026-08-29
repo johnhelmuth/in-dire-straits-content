@@ -21,7 +21,6 @@ is only 0.3g.
 
 Each floor is separated into 24 sectors, number 0 through 23. There are 24 sets
 of lifts evenly spread around the disc, at the center of each sector.
-
 ![](/images/torrin/port-rails-space-tug.png){ size="small" align="left" caption="Port Rails
 space station with a space tug maneuvering to dock at the hub."}
 At the center of the disc is the hub, which is 300 meters in diameter and 500
@@ -38,3 +37,5 @@ Passengers boarding the elevator car at the Down Terminal can find comfortable
 seating with a magnificent view of the planet, or can pay for a sleeper cabin. 
 The trip takes 30 hours, with the elevator car quickly accelerating to over 
 1200 km/hr for the trip.
+
+[Places within Port Rails](./port-rails/port-rails-places)

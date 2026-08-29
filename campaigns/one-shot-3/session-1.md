@@ -3,6 +3,12 @@ title: One shot Summary
 date: 2026-06-06
 ---
 
+Lady Charrisse Grant had been murdered, stabbed in the back with her own steak
+knife while eating her meal in her room. She had been discovered by the
+innkeeper Laura Dursley, who had delivered the Lady's meal an hour before.
+
+Everyone in the inn was under suspicion, and Constable Briggart was on the case.
+
 ## Dalton Murrieta
 
 It was three years ago when the spacer merchant Dalton Murrieta first
@@ -44,14 +50,6 @@ common room, and recognized Murri. She had wondered for three years if she got
 taken on the deal for the data chip, but here he was. Before she could find out
 if he had her fancy pocket-watch and her money, they heard a scream from the top
 of the stairs.
-
-## The Murder
-
-Lady Charrisse Grant had been murdered, stabbed in the back with her own steak
-knife while eating her meal in her room. She had been discovered by the 
-innkeeper Laura Dursley, who had delivered the Lady's meal an hour before.
-
-Everyone in the inn was under suspicion, and Constable Briggart was on the case.
 
 ## Who dunnit?
 

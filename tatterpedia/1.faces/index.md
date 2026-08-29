@@ -3,6 +3,19 @@ title: Faces
 description: A list of non player characters (NPCs) in the game.
 ---
 
+### Garnet Alder
+
+Aspects: ***VCVFWA Port Rails Chapter member***
+
+A middle-aged woman, in a buttoned down short sleeve green and beige striped shirt, grey slacks, loafers.
+
+### "Truck" Andon
+
+Aspects: ***NED Marine (Enhanced) Staff Sergeant, awarded the Orange Starburst, Discharged***, ***Glitchy Left Knee Actuator***
+
+
+Truck is an imposing man older man with long stringy hair. He walks with a weird rhythmic limp. Both of his legs, his right arm, and his left eye have been obviously cybernetically replaced, but they are pretty beat up, scratched, etc.
+
 ### Dr. Indira Attenborough
 
 Sapientologist currently in Zerzi system, working on Zerzi Station on
@@ -22,6 +35,14 @@ Will: **Good (+3)**
 
 Engineering professor at the [Tepchania Institute of Technology](factions#tepchania-institute-of-technology). Trusted
 by [Dr. Indira Attenborough, sapientologist](faces#dr-indira-attenborough).
+
+### Officer Phara Benner
+
+***Port Rails Security Officer - Lasana***
+
+### Sergeant Lina Bershsvin
+
+***Patriot Security Sergeant***
 
 ### Shelley Bowers
 
@@ -51,6 +72,20 @@ A physicist who did his doctoral thesis on Slipstream Space. Currently
 on mission to Luxia to examine unusual gravitational signatures there,
 on the [Science Foundation Deep Space Research Vessel *Silver Minnow*](ships#science-foundation-deep-space-research-vessel-silver-minnow).
 
+### Conway Carlson
+
+***PRPA Dispatcher***
+
+Conway is the dispatcher who communicates with crews of the space tugs
+
+### Remy Cooper
+
+***Friendliest Bartender in The Loreto ; “Name yer poison, pardner!”***
+
+Skills: Contacts, Empathy, Rapport: Good (+3); Athletics, Shoot (Stun shotgun under bar): Fair (+2); Fight: Average (+1)
+
+A lanky 1.8 meter tall man with a narrow face, sandy hair and a 5 day beard. Wears a brown vest over a button-down white shirt, black slacks (standard waitstaff uniform for The Loreto.)
+
 ### Lieutenant Craln
 
 Human Executive officer of the [ZSN destroyer *Tenacious*](ships#zerzi-space-navy-destroyer-tenacious).
@@ -70,6 +105,10 @@ communication device to the right side of his eyes. Only a glowing light
 and the occasional glint of silver metal can be seen as it is mostly
 covered by his fur.
 
+### Officer Dante Dewitt
+
+***Port Rails Security Officer - Lasana***
+
 ### Corvin Dituri
 
 Shopkeeper on Zerzi Station, used as Dohpaz Vito’s on-station proxy for communications with the Dire Straits crew.
@@ -87,6 +126,26 @@ in all the systems of the local cluster.
 
 ![BESN composite rendering of the Pirate Queen Ramekin Finch, based on multiple alleged sightings.](/images/ramekin-finch.jpeg){align="center"  size="small" caption="ZSN composite rendering of the Pirate Queen Ramekin Finch, based on multiple alleged sightings."}
 
+### Sergeant Urien Galven
+
+***Port Rails Security Sergeant - Port Authority*** ; ***Stuck in PRPA Division***
+
+### Harly Gerson
+
+***PRPA Traffic Chief***
+
+Head of the PRPA Traffic control division
+
+### Officer Virdia Hyland
+
+***Port Rails Security Officer - Port Authority*** ; ***I have to work meaner to get past the height bias***
+
+Virdia is 162 cm tall. Technically above average, by less than a centimeter. She has bright yellow hair that she wears buzzed close to her skull.### Officer Virdia Hyland
+
+### Casirov Inplento
+
+***Port Rails Security Chief - Port Authority***
+
 ### Captain Chedi Janelduran
 
 Bontion (5’ tall black and orange striped caterpillar with 8 tentacles) merchant captain of the medium merchant ship Mass Simulator.
@@ -95,6 +154,44 @@ Bontion (5’ tall black and orange striped caterpillar with 8 tentacles) mercha
 
 Runs a shop in Alodon on Seed that imports and re-sells off-planet fashions for those who can afford it. She is a polite
 severe human who dresses in simple high-quality off-planet styles.
+
+### Inen Jenker
+
+***PRPA Executive Chief of Staff*** ; ***I know what needs to be done, and make sure that it gets done***
+
+The chief of staff for Khira, Inen executes on what Khira orders.
+
+### Ariana Kehoe
+
+***Port Rails Security Chief - Lasana***
+
+### Teve Kelley
+
+***NKC buyer looking to increase their security assets***
+
+### Khira
+
+***PRPA Executive*** ; ***The Buck Stops Here***
+
+Khira is the appointed head of the Port Rails Port Authority
+
+### Hawk Koerner
+
+***PRPA Yard Manager***
+
+### Justine Kroll
+
+Member of the Space Workers Union.
+
+### Laurent
+
+Member of the Space Workers Union.
+
+### Boa Martini
+
+***Blackadder Bossteen*** ; ***1000 Meter Stare***
+
+Punk teenager, world weary
 
 ### Captain Marco Martinez
 
@@ -125,6 +222,35 @@ Fight, Athletics: **Good (+3)**, (Sword)
 
 Physique: **Fair (+2)**
 
+### Professor DJ Liam McRaven
+
+::paragraph-with-image{src="/images/characters/Professor-DJ-Liam-McRaven.jpg" align="left" size="xx-small"}
+
+***Professor DJ of Old Earth Cultural Trends - 20th and 21st Century YB***
+
+::
+
+### Trinity Ocano
+
+***Owner of The Loreto*** ; ***“Welcome, my dears, to The Loreto!”***
+
+Skills:
+
+* Contacts: Superb (+5)
+* Resources, Empathy: Great (+4)
+* Notice, Rapport, Provoke: Good (+3)
+* Deceive, Shoot, Fight… : Fair (+2)
+
+Trinity is the owner of The Loreto. They run a tight ship, and does not tolerate any violence or shenanigans on the premises, backed up by her effective security staff. They speak in clipped, deadpan tones.
+
+They can usually be found sitting at her table in the back corner of the restaurant/bar where they can see the entire room, across from the bar and kitchen.
+
+### Harley Paulsen
+
+***VCVFWA Port Rails Chapter president***
+
+An older woman, still elegant in simple cotton draping stop and linen pants.
+
 ### Captain Vilarn Polustan
 
 Captain of the Science Foundation Deep Space Research Vessel *Silver
@@ -140,10 +266,32 @@ mindless monsters portrayed by the media, but his career collapsed after
 a wave of particularly brutal Invicta expansions. Ravenwood has not been
 seen in ages.
 
+### Willie Soner
+
+Aspects: ***NED Marine (Enhanced) PFC, Discharged*** ; ***Gonna have to face it, I’m addicted to rum, and I’m a mean drunk***
+
+Willie is a young, well-built man with obvious cybernetic implants in both his eyes, and his ears. He is personable when sober, but is a mean drunk.
+
+### Tradai Sprinter
+
+Aspects: ***Owner of the Hotel Baltimore***
+
+Tradai wears a flowing black full length gown that covers him from his neck to the floor. He has white hair pulled up in a top-bun, and cold grey eyes.
+
+### Sergeant Keira Stoyer
+
+***Port Rails Security Sergeant - Lasana***
+
 ### Taedala Suda
 
 Bontion owner / operator / bartender of the only bar on Cuthbert
 Station. She and [Ozar Crivvain](#ozar-crivvain) are partners.
+
+### Telly
+
+***Fronk’s Salvage salvage ship mechanic*** ; ***Space Workers Union member*** ; ***You never know when you’re going to need to break something apart.***
+
+A short, stocky man, typically carries a crowbar and a mini-plasma torch.
 
 ### Saisar Thoth
 
@@ -172,6 +320,12 @@ planet.
 Aspect: ***Cronstak Businessman with a shady need***
 
 Will: **Good (+3)**
+
+### Brandy Zahra
+
+***PRPA Crew Shift Manager***
+
+Brandy is the crew manager for the shift when the PCs work
 
 ### Lady Ariana Zanetti
 Aspects: **_Spoiled Wastrel Daughter of House Zanetti of Golden Seed ; Loves a good fight and shiny things_**
