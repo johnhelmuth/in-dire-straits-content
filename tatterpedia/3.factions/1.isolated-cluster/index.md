@@ -22,9 +22,9 @@ description: A list of factions in the Isolated Cluster.
     * Their “colors” are kilts of
       the [Scottish Blackadder clan tartan](https://www.scotclans.com/blogs/clans-b/clan-blackadder-tartans),
       green and blue, with black and white accents.![](/images/torrin/blackadder_gang_colors_500x.jpg){align="center" size="xx-small"}
-  * Vat Clones Veterans of Foreign Wars Association (VCVFWA) ![](/images/torrin/harlan-paulsen-vat-clone.png){size="xx-small" align="right" caption="Harlan Paulsen, VCVFWA Port Rails Chapter President"}
+  * Vat Clones Veterans of Foreign Wars Association (VCVFWA) ![](/images/torrin/harley-paulsen-vat-clone.jpg){size="x-small" align="right" caption="Harley Paulsen, VCVFWA Port Rails Chapter President"}
     * Vat clones have gotten together and formed an association to support them
-      as the age. The chapter for Port Rails meets at The Loreto in the
+      as they age. The chapter for Port Rails meets at The Loreto in the
       Lasana neighborhood.
     * Harley Paulsen is the Port Rails chapter of the VCVFWA
   * Space Workers Union

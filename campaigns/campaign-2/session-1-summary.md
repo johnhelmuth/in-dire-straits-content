@@ -9,7 +9,7 @@ Inside The Loreto was the usual set of regulars: Paulsen, (the VCVFWA Port Rails
 
 As the three walked to their regular booth in the back, Deli gestured to Remy to make her a double of her usual drink; she really needed to decompress.
 
-A guy in a business suit came into the bar, ordered a drink, and started a conversation with Alder and Paulsen. He was asking about being a vat clone, what was it like, etc. Alder was answering his questions, being friendly, while Paulsen just sat drinking his beer and trying to ignore the conversation.
+A guy in a business suit came into the bar, ordered a drink, and started a conversation with Alder and Paulsen. He was asking about being a vat clone, what was it like, etc. Alder was answering his questions, being friendly, while Paulsen just sat drinking her beer and trying to ignore the conversation.
 
 The crew were sitting nearby and overheard most of the conversation. The businessman had introduced himself to Alder and Paulsen as Teve Kelley, and was getting more personal with his questions, like, "What was it like growing up being a vat clone?" In response, Alder was starting to bullshit him about that. The guy should have
 known that vat clones don't have a regular childhood, they just pop out of the vat as an adult, knowing how to shoot people and take orders.
@@ -20,7 +20,7 @@ At this point, Paulsen was getting visibly steamed about the way the guy wouldn'
 
 It was then that two other guys in working man clothes that were a little too clean came in and took seats at a table against the wall where they had a view of Alder and Paulsen. They didn't look or move like working men, they looked like security or military men.
 
-Meanwhile Teve Kelley, Alder, and Paulsen were continuing their conversation. Paulsen finally came to his feet, pushed Alder aside, and got into Teve's face, telling him to get the hell out of the bar and leave them alone.
+Meanwhile, Teve Kelley, Alder, and Paulsen were continuing their conversation. Paulsen finally came to her feet, pushed Alder aside, and got into Teve's face, telling him to get the hell out of the bar and leave them alone.
 
 The two men near the wall quickly walked towards Paulsen. Deli scanned them and noted they had some sort of energy
 pistols concealed on them. They moved up to Paulsen together, shouldering Teve aside, and grabbed Paulsen. Without thinking, Deli threw her glass at one of the men's head, and missed. Her glass sailed across the bar and hit Willie
