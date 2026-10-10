@@ -321,6 +321,18 @@ Aspect: ***Cronstak Businessman with a shady need***
 
 Will: **Good (+3)**
 
+### Avercombe Willinegsworth
+
+***Very Experienced Technoarchaeologist***
+
+::paragraph-with-image{src="/images/characters/Avercombe Willinegsworth small.png" align="left" size="xx-small"}
+
+A thin face with a neatly trimmed grey goatee & mustache, bright blue eyes, a monocle with a chain hanging down the side of his face, and flashes of moving green light reflected in the lens.
+
+They are wearing a black bowler hat and a grey textured overcoat with a white shirt and a subdued red tie.
+
+::
+
 ### Brandy Zahra
 
 ***PRPA Crew Shift Manager***
