@@ -1,5 +1,5 @@
 ---
-title: Session 3 Summary
+title: Session 3 Episode 7 Summary - Dwabit finally has a reason to land on a planet.
 date: 2026-08-29
 ---
 

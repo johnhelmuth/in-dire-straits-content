@@ -1,12 +1,12 @@
 ---
-title: Session 0a Summary
+title: Session 0a Summary (Episodes 1-4)
 date: 2026-06-13
 ---
 
 We finished up character generation by playing a variant of Fate Core's Phase
 Trio, based on discussions about the Phase Trio on
 the [Fate Tabletop RPGs](https://discord.com/invite/CeXKx8NGYU)
-Discord server.
+Discord server. We consider these mini-stories to be episodes 1 through 3 of a TV show about the characters.
 
 We discussed the structure
 of [Port Rails](/tatterpedia/places/clusters/isolated-cluster/torrin),
