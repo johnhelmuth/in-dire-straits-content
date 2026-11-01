@@ -1,5 +1,7 @@
 ---
 title: Session 1 Episode 5 Summary, or Why does trying to hire a vat clone army end up in a bar fight?
+session: 1
+episode: 5
 date: 2026-06-20
 ---
 

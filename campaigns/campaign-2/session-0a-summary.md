@@ -1,5 +1,7 @@
 ---
 title: Session 0a Summary (Episodes 1-4)
+session: 0a
+episodes: [1,2,3,4]
 date: 2026-06-13
 ---
 

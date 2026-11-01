@@ -1,5 +1,6 @@
 ---
 title: Session 0 Summary
+session: 0
 date: 2026-05-23
 ---
 

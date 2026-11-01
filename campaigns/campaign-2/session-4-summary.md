@@ -1,5 +1,7 @@
 ---
 title: Session 4 Episode 8, Scientists and their data, amirite?
+session: 4
+episode: 8
 date: 2026-10-10
 ---
 
@@ -66,12 +68,15 @@ already cycled out the airlock. She noticed the sample box was no longer tucked 
 Scout had taken as long as possible to hook the _Blue Eagle_ up to the _Tugboat_. He did not see the Captain and the
 Doctor move between the two ships.
 
+Deli discovered that Dr. Fromarian and Captain Martinez had moved the sample box from the _Blue Eagle_ to the _Tugboat_.
+She stated that she needed to record things taken from the site, and picked it up with 4 of her mechanical arms to take 
+videos of it. While doing this, she hacked into the sample case and recorded the data that had been stored there about
+the samples. She helped Dr. Fromarian stow the sample case in the bunk on the _Tugboat_.
+
 As everyone loaded into the _Tugboat_ to take off, the hovercar with Dr. Alexandrich and Solar Unixi arrived.
 
 Dr. Fromarian did not want to talk to them, Captain Martinez went out to talk to them. He convinced them that everything
-was all right. ???
-
--- More Shenanigans --
+was all right.
 
 After the crew dropped off the Doctor and his sample box, Deli sent the data she had extracted to Dr. Umbeko.
 
